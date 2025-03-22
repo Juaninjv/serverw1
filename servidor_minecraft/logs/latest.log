@@ -24,3 +24,9 @@
 [18:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
 [18:14:24] [Server thread/INFO]: juank18sv[/127.53.75.47:54303] logged in with entity id 232 at (904.497582465945, 60.0, -252.68683858847638)
 [18:14:24] [Server thread/INFO]: juank18sv joined the game
+[18:34:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=883, y=70, z=-382} jd{x=884, y=69, z=-382}
+[18:41:45] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[18:41:45] [Server thread/INFO]: Whiter_YT2 left the game
+[18:43:06] [Server thread/INFO]: Whiter_YT2[/127.111.195.194:38493] logged in with entity id 7287 at (896.8870532598461, 70.0, -268.98951767235275)
+[18:43:06] [Server thread/INFO]: Whiter_YT2 joined the game
+[18:46:31] [Server thread/INFO]: juank18sv was slain by Iron Golem
