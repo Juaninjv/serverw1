@@ -1,36 +1,40 @@
-[21:54:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:54:51] [ServerMain/INFO]: No existing world data, creating new world
-[21:54:52] [ServerMain/INFO]: Loaded 1290 recipes
-[21:54:53] [ServerMain/INFO]: Loaded 1399 advancements
-[21:54:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:54:53] [Server thread/INFO]: Loading properties
-[21:54:53] [Server thread/INFO]: Default game type: SURVIVAL
-[21:54:53] [Server thread/INFO]: Generating keypair
-[21:54:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:54:53] [Server thread/INFO]: Using epoll channel type
-[21:54:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:54:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:54:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:54:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:54:53] [Server thread/INFO]: Preparing level "world"
-[21:55:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:55:04] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:04] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:05] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:05] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:06] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:06] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:07] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:07] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:08] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:08] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:09] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:09] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:10] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:10] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:11] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[21:55:12] [Server thread/INFO]: Time elapsed: 7860 ms
-[21:55:12] [Server thread/INFO]: Done (18.213s)! For help, type "help"
-[21:56:56] [Server thread/INFO]: juank18sv[/127.53.75.47:39467] logged in with entity id 10 at (-24.5, 67.0, -67.5)
-[21:56:56] [Server thread/INFO]: juank18sv joined the game
-[22:14:12] [Server thread/INFO]: juank18sv has made the advancement [Stone Age]
+[03:22:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:22:25] [ServerMain/INFO]: Loaded 1290 recipes
+[03:22:25] [ServerMain/INFO]: Loaded 1399 advancements
+[03:22:26] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:22:26] [Server thread/INFO]: Loading properties
+[03:22:26] [Server thread/INFO]: Default game type: SURVIVAL
+[03:22:26] [Server thread/INFO]: Generating keypair
+[03:22:26] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:22:26] [Server thread/INFO]: Using epoll channel type
+[03:22:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:22:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:22:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:22:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:22:26] [Server thread/INFO]: Preparing level "world"
+[03:22:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:22:35] [Server thread/INFO]: Time elapsed: 1107 ms
+[03:22:35] [Server thread/INFO]: Done (8.909s)! For help, type "help"
+[03:22:37] [Server thread/INFO]: juank18sv[/127.53.75.47:33481] logged in with entity id 57 at (8.3125, 62.110764312809174, 19.3125)
+[03:22:37] [Server thread/INFO]: juank18sv joined the game
+[03:22:54] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:49153] logged in with entity id 198 at (-34.5, 67.0, -62.5)
+[03:22:54] [Server thread/INFO]: Whiter_YT2 joined the game
+[03:23:30] [Server thread/INFO]: Whiter_YT2 has made the advancement [Stone Age]
+[03:23:36] [Server thread/INFO]: Whiter_YT2 has made the advancement [Getting an Upgrade]
+[03:25:39] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[03:25:39] [Server thread/INFO]: Whiter_YT2 left the game
+[03:25:39] [Server thread/WARN]: handleDisconnection() called twice
+[03:26:03] [Server thread/INFO]: Whiter_YT2[/127.67.67.94:58361] logged in with entity id 780 at (-34.32315417154388, 68.0, -59.332032914703014)
+[03:26:03] [Server thread/INFO]: Whiter_YT2 joined the game
+[03:30:05] [Server thread/INFO]: Whiter_YT2 has made the advancement [Monster Hunter]
+[03:31:18] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 8.579767317593763,8.647926534877115E-7,-5.305493065340503
+[03:31:18] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 8.705642035141587,8.674335632008479E-7,-5.657342493497737
+[03:31:18] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 8.834268496013586,8.691010435768476E-7,-6.01094893090449
+[03:31:32] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 10.080882725149138,0.0,-2.511784975270288
+[03:31:32] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 10.468942880496854,0.0,-2.608475155763138
+[03:31:32] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 10.857010345016121,0.0,-2.705167154615072
+[03:31:32] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 11.24508438778959,0.0,-2.8018607899901475
+[03:31:32] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 11.633164350991692,0.0,-2.898555898236001
+[03:31:32] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 12.021249642579434,0.0,-2.9952523320655224
