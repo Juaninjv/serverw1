@@ -20,6 +20,9 @@
       "minecraft:old_growth_birch_forest": "2025-03-21 22:20:10 +0000",
       "minecraft:ocean": "2025-03-22 03:31:34 +0000",
       "minecraft:birch_forest": "2025-03-24 02:30:24 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-03-24 03:57:34 +0000",
+      "minecraft:windswept_hills": "2025-03-24 03:56:48 +0000",
+      "minecraft:windswept_savanna": "2025-03-24 04:00:42 +0000",
       "minecraft:plains": "2025-03-22 03:33:03 +0000"
     },
     "done": false
@@ -1580,6 +1583,18 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-03-24 03:35:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-03-24 04:00:44 +0000"
     },
     "done": true
   },
