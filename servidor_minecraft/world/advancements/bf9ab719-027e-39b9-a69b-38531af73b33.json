@@ -826,6 +826,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-22 03:39:13 +0000",
+      "minecraft:enderman": "2025-03-24 02:15:09 +0000",
       "minecraft:zombie": "2025-03-22 03:50:23 +0000",
       "minecraft:creeper": "2025-03-22 03:58:11 +0000"
     },
@@ -1425,21 +1426,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_flint": "2025-03-22 18:51:36 +0000"
+      "has_water_bucket": "2025-03-22 18:21:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "has_book": "2025-03-22 18:51:33 +0000"
+      "has_wheat": "2025-03-22 18:49:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "has_flint": "2025-03-22 18:51:36 +0000"
+      "has_carrot": "2025-03-22 18:49:44 +0000"
     },
     "done": true
   },
@@ -1455,33 +1456,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_flint": "2025-03-22 18:51:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-03-22 18:51:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-03-22 18:49:44 +0000"
+      "has_book": "2025-03-22 18:51:33 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-03-22 18:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-03-22 18:21:05 +0000"
     },
     "done": true
   },
@@ -1497,9 +1480,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/hay_block": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_wheat": "2025-03-22 18:49:42 +0000"
+      "has_flint": "2025-03-22 18:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-03-22 18:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-03-22 18:51:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-03-22 18:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-22 18:58:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-22 18:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-22 18:58:58 +0000"
     },
     "done": true
   },

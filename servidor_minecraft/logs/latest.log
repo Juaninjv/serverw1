@@ -1,32 +1,36 @@
-[18:13:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:13:14] [ServerMain/INFO]: Loaded 1290 recipes
-[18:13:15] [ServerMain/INFO]: Loaded 1399 advancements
-[18:13:16] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:13:16] [Server thread/INFO]: Loading properties
-[18:13:16] [Server thread/INFO]: Default game type: SURVIVAL
-[18:13:16] [Server thread/INFO]: Generating keypair
-[18:13:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:13:16] [Server thread/INFO]: Using epoll channel type
-[18:13:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:13:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:13:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:13:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:13:16] [Server thread/INFO]: Preparing level "world"
-[18:13:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:13:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:13:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:13:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:13:34] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[18:13:35] [Server thread/INFO]: Time elapsed: 1912 ms
-[18:13:35] [Server thread/INFO]: Done (18.300s)! For help, type "help"
-[18:14:12] [Server thread/INFO]: Whiter_YT2[/127.161.152.112:55461] logged in with entity id 5 at (925.735153654963, 67.0, -245.77873124879994)
-[18:14:12] [Server thread/INFO]: Whiter_YT2 joined the game
-[18:14:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
-[18:14:24] [Server thread/INFO]: juank18sv[/127.53.75.47:54303] logged in with entity id 232 at (904.497582465945, 60.0, -252.68683858847638)
-[18:14:24] [Server thread/INFO]: juank18sv joined the game
-[18:34:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=883, y=70, z=-382} jd{x=884, y=69, z=-382}
-[18:41:45] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[18:41:45] [Server thread/INFO]: Whiter_YT2 left the game
-[18:43:06] [Server thread/INFO]: Whiter_YT2[/127.111.195.194:38493] logged in with entity id 7287 at (896.8870532598461, 70.0, -268.98951767235275)
-[18:43:06] [Server thread/INFO]: Whiter_YT2 joined the game
-[18:46:31] [Server thread/INFO]: juank18sv was slain by Iron Golem
+[01:57:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:57:31] [ServerMain/INFO]: Loaded 1290 recipes
+[01:57:31] [ServerMain/INFO]: Loaded 1399 advancements
+[01:57:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:57:31] [Server thread/INFO]: Loading properties
+[01:57:31] [Server thread/INFO]: Default game type: SURVIVAL
+[01:57:31] [Server thread/INFO]: Generating keypair
+[01:57:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:57:32] [Server thread/INFO]: Using epoll channel type
+[01:57:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:57:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:57:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:57:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:57:32] [Server thread/INFO]: Preparing level "world"
+[01:57:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:57:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:57:39] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:57:39] [Server thread/INFO]: Time elapsed: 846 ms
+[01:57:39] [Server thread/INFO]: Done (7.558s)! For help, type "help"
+[01:58:11] [Server thread/INFO]: juank18sv[/127.53.75.47:58313] logged in with entity id 5 at (914.3000000119209, 69.5625, -230.38510209053274)
+[01:58:11] [Server thread/INFO]: juank18sv joined the game
+[02:00:53] [Server thread/INFO]: Whiter_YT2[/127.228.200.59:52123] logged in with entity id 876 at (922.3277258718101, 63.1212968405392, -298.14149093260295)
+[02:00:53] [Server thread/INFO]: Whiter_YT2 joined the game
+[02:01:30] [Server thread/INFO]: [Not Secure] <Whiter_YT2> se te desconecto de la llamada
+[02:01:38] [Server thread/INFO]: [Not Secure] <juank18sv> yo me fui a llorones
+[02:01:57] [Server thread/INFO]: [Not Secure] <juank18sv> a ver si se unen a nuestro server
+[02:02:05] [Server thread/INFO]: [Not Secure] <juank18sv> estan jugando repo
+[02:02:16] [Server thread/INFO]: [Not Secure] <Whiter_YT2> dejalos q juegen repo XD
+[02:02:45] [Server thread/INFO]: [Not Secure] <juank18sv> dice que no pesa mucho y corre en cualquier cosa
+[02:02:59] [Server thread/INFO]: [Not Secure] <juank18sv> sera que corre en la net
+[02:03:13] [Server thread/INFO]: [Not Secure] <Whiter_YT2> lo averiguaremos
+[02:03:55] [Server thread/WARN]: UUID of added entity already exists: cfv['Pig'/1710, l='ServerLevel[world]', x=825.94, y=63.00, z=-592.05]
+[02:16:32] [Server thread/INFO]: juank18sv lost connection: Disconnected
+[02:16:32] [Server thread/INFO]: juank18sv left the game
+[02:16:58] [Server thread/INFO]: juank18sv[/127.53.75.47:36677] logged in with entity id 5038 at (903.802797716183, 60.0, -253.6495068034988)
+[02:16:58] [Server thread/INFO]: juank18sv joined the game
