@@ -246,3 +246,10 @@
 [21:11:05] [Server thread/INFO]: [Not Secure] <juank18sv> belo e el melhor
 [21:11:26] [Server thread/INFO]: juank18sv lost connection: Disconnected
 [21:11:26] [Server thread/INFO]: juank18sv left the game
+[21:33:37] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[21:33:37] [Server thread/INFO]: Whiter_YT2 left the game
+[21:36:08] [Server thread/INFO]: Whiter_YT2[/127.71.190.219:37605] logged in with entity id 57637 at (911.3871528018807, 67.0, -247.65212537530735)
+[21:36:08] [Server thread/INFO]: Whiter_YT2 joined the game
+[21:43:23] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[21:43:23] [Server thread/INFO]: Whiter_YT2 left the game
+[21:43:23] [Server thread/WARN]: handleDisconnection() called twice
