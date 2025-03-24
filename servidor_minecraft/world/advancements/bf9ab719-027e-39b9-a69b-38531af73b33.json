@@ -19,11 +19,13 @@
       "minecraft:deep_cold_ocean": "2025-03-24 03:34:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-21 22:20:10 +0000",
       "minecraft:ocean": "2025-03-22 03:31:34 +0000",
+      "minecraft:jungle": "2025-03-24 08:03:26 +0000",
       "minecraft:birch_forest": "2025-03-24 02:30:24 +0000",
       "minecraft:windswept_gravelly_hills": "2025-03-24 03:57:34 +0000",
       "minecraft:windswept_hills": "2025-03-24 03:56:48 +0000",
       "minecraft:windswept_savanna": "2025-03-24 04:00:42 +0000",
-      "minecraft:plains": "2025-03-22 03:33:03 +0000"
+      "minecraft:plains": "2025-03-22 03:33:03 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-24 04:15:13 +0000"
     },
     "done": false
   },
@@ -1595,6 +1597,30 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-03-24 04:00:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-24 04:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-24 04:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-24 04:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-24 04:13:07 +0000"
     },
     "done": true
   },

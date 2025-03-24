@@ -473,7 +473,8 @@
       "minecraft:zombie": "2025-03-22 04:11:01 +0000",
       "minecraft:creeper": "2025-03-24 02:13:13 +0000",
       "minecraft:drowned": "2025-03-22 03:30:05 +0000",
-      "minecraft:zombie_villager": "2025-03-22 18:16:30 +0000"
+      "minecraft:zombie_villager": "2025-03-22 18:16:30 +0000",
+      "minecraft:slime": "2025-03-24 04:06:39 +0000"
     },
     "done": false
   },
@@ -490,6 +491,7 @@
       "bread": "2025-03-22 03:56:01 +0000",
       "rotten_flesh": "2025-03-22 03:32:14 +0000",
       "cooked_mutton": "2025-03-22 03:35:54 +0000",
+      "cooked_cod": "2025-03-24 04:08:59 +0000",
       "cooked_beef": "2025-03-22 05:09:57 +0000",
       "beef": "2025-03-22 03:31:51 +0000",
       "cooked_salmon": "2025-03-24 03:16:16 +0000",
@@ -1859,6 +1861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-03-24 04:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-24 03:57:58 +0000"
@@ -1895,6 +1903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-03-24 04:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-03-24 03:50:50 +0000"
@@ -1904,6 +1918,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-03-24 03:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-03-24 04:06:44 +0000"
     },
     "done": true
   },
