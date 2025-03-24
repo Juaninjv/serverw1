@@ -247,6 +247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-24 20:27:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-24 19:39:15 +0000"
@@ -1228,6 +1234,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-24 20:29:08 +0000",
       "cooked_mutton": "2025-03-24 19:56:26 +0000",
       "cooked_beef": "2025-03-24 19:43:36 +0000"
     },
