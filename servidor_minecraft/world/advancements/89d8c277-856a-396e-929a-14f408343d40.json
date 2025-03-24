@@ -20,6 +20,7 @@
       "minecraft:jungle": "2025-03-22 05:24:26 +0000",
       "minecraft:sunflower_plains": "2025-03-22 05:42:14 +0000",
       "minecraft:birch_forest": "2025-03-22 05:39:48 +0000",
+      "minecraft:windswept_hills": "2025-03-24 03:50:21 +0000",
       "minecraft:savanna": "2025-03-22 05:21:24 +0000",
       "minecraft:plains": "2025-03-22 03:33:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 05:20:45 +0000"
@@ -1836,6 +1837,60 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-03-24 03:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-03-24 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-24 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-03-24 03:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-24 03:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-24 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-24 03:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-24 03:44:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-03-24 03:50:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-24 03:44:42 +0000"
     },
     "done": true
   },
