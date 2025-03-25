@@ -22,3 +22,10 @@
 [18:57:36] [Server thread/WARN]: Whiter_YT2 moved too quickly! 2.4454233331950945,0.42355929454303975,9.872912475466023
 [18:57:53] [Server thread/WARN]: Whiter_YT2 moved too quickly! 8.58168132511014,2.2508673611415873,4.854310814150722
 [19:02:12] [Server thread/INFO]: Whiter_YT2 has made the advancement [A Seedy Place]
+[19:21:32] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[19:21:32] [Server thread/INFO]: Whiter_YT2 left the game
+[19:21:32] [Server thread/WARN]: handleDisconnection() called twice
+[19:21:47] [Server thread/INFO]: Whiter_YT2[/127.161.152.112:33769] logged in with entity id 7133 at (845.2540789558565, 68.525, -412.6875)
+[19:21:47] [Server thread/INFO]: Whiter_YT2 joined the game
+[19:22:55] [Server thread/WARN]: Whiter_YT2 moved too quickly! -1.0340293923063655,0.8322033533667508,10.018116352077868
+[19:23:01] [Server thread/WARN]: Whiter_YT2 moved too quickly! 1.0580204775689026,-1.0752008901189498,10.229564579388523
