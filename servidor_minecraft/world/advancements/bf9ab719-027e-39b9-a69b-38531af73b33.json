@@ -850,11 +850,13 @@
       "minecraft:cave_spider": "2025-03-26 02:30:43 +0000",
       "minecraft:skeleton": "2025-03-22 03:39:13 +0000",
       "minecraft:piglin": "2025-03-26 16:05:07 +0000",
+      "minecraft:zombified_piglin": "2025-03-26 18:42:01 +0000",
       "minecraft:enderman": "2025-03-24 02:15:09 +0000",
       "minecraft:magma_cube": "2025-03-26 16:41:50 +0000",
       "minecraft:spider": "2025-03-24 09:24:36 +0000",
       "minecraft:zombie": "2025-03-22 03:50:23 +0000",
       "minecraft:creeper": "2025-03-22 03:58:11 +0000",
+      "minecraft:ghast": "2025-03-26 18:53:37 +0000",
       "minecraft:hoglin": "2025-03-26 16:04:17 +0000"
     },
     "done": false
@@ -2817,6 +2819,18 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-03-26 16:41:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-26 18:46:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-26 18:46:32 +0000"
     },
     "done": true
   },
