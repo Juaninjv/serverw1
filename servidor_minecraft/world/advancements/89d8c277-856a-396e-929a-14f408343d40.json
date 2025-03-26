@@ -469,16 +469,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-03-26 21:47:18 +0000",
-      "minecraft:cave_spider": "2025-03-26 02:22:02 +0000",
       "minecraft:skeleton": "2025-03-22 05:32:57 +0000",
+      "minecraft:wither_skeleton": "2025-03-26 22:15:00 +0000",
+      "minecraft:hoglin": "2025-03-26 21:34:32 +0000",
+      "minecraft:cave_spider": "2025-03-26 02:22:02 +0000",
       "minecraft:enderman": "2025-03-24 19:31:11 +0000",
+      "minecraft:magma_cube": "2025-03-26 22:11:56 +0000",
       "minecraft:spider": "2025-03-22 03:37:22 +0000",
       "minecraft:zombie": "2025-03-22 04:11:01 +0000",
       "minecraft:creeper": "2025-03-24 02:13:13 +0000",
       "minecraft:drowned": "2025-03-22 03:30:05 +0000",
       "minecraft:zombie_villager": "2025-03-22 18:16:30 +0000",
-      "minecraft:slime": "2025-03-24 04:06:39 +0000",
-      "minecraft:hoglin": "2025-03-26 21:34:32 +0000"
+      "minecraft:slime": "2025-03-24 04:06:39 +0000"
     },
     "done": false
   },
@@ -2800,6 +2802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-03-26 21:18:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-03-26 21:32:31 +0000"
@@ -2812,27 +2820,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-26 21:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-26 21:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-26 21:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-26 21:32:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-26 21:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-26 21:45:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-03-26 21:45:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-03-26 21:18:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-26 21:45:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-03-26 21:48:17 +0000"
     },
     "done": true
   },
@@ -2854,12 +2886,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-03-26 21:48:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-26 21:45:47 +0000"
@@ -2878,27 +2904,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+  "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
-      "has_bone_block": "2025-03-26 21:39:54 +0000"
+      "has_nether_bricks": "2025-03-26 21:45:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_quartz": "2025-03-26 21:32:31 +0000"
+      "blaze_rod": "2025-03-26 21:48:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/granite": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_quartz": "2025-03-26 21:32:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-03-26 21:45:46 +0000"
+      "has_blaze_rod": "2025-03-26 21:48:17 +0000"
     },
     "done": true
   },
@@ -2908,21 +2928,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_block": {
+  "minecraft:nether/get_wither_skull": {
     "criteria": {
-      "has_quartz": "2025-03-26 21:32:31 +0000"
+      "wither_skull": "2025-03-26 22:13:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/nether_brick_fence": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_nether_bricks": "2025-03-26 21:45:47 +0000"
+      "has_nether_wart": "2025-03-26 22:14:39 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/daylight_detector": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_quartz": "2025-03-26 21:32:31 +0000"
+      "has_nether_wart": "2025-03-26 22:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-26 22:13:55 +0000"
     },
     "done": true
   },
