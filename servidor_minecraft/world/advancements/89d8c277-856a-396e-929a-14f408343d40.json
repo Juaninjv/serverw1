@@ -476,7 +476,8 @@
       "minecraft:creeper": "2025-03-24 02:13:13 +0000",
       "minecraft:drowned": "2025-03-22 03:30:05 +0000",
       "minecraft:zombie_villager": "2025-03-22 18:16:30 +0000",
-      "minecraft:slime": "2025-03-24 04:06:39 +0000"
+      "minecraft:slime": "2025-03-24 04:06:39 +0000",
+      "minecraft:hoglin": "2025-03-26 21:34:32 +0000"
     },
     "done": false
   },
@@ -2606,7 +2607,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-03-26 18:57:54 +0000",
-      "minecraft:nether_wastes": "2025-03-26 19:03:22 +0000"
+      "minecraft:nether_wastes": "2025-03-26 19:03:22 +0000",
+      "minecraft:soul_sand_valley": "2025-03-26 21:38:37 +0000"
     },
     "done": false
   },
@@ -2812,6 +2814,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-03-26 21:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-26 21:39:54 +0000"
     },
     "done": true
   },
