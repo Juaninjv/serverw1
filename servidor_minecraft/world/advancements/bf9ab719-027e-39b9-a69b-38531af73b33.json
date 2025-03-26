@@ -851,6 +851,7 @@
       "minecraft:skeleton": "2025-03-22 03:39:13 +0000",
       "minecraft:piglin": "2025-03-26 16:05:07 +0000",
       "minecraft:enderman": "2025-03-24 02:15:09 +0000",
+      "minecraft:magma_cube": "2025-03-26 16:41:50 +0000",
       "minecraft:spider": "2025-03-24 09:24:36 +0000",
       "minecraft:zombie": "2025-03-22 03:50:23 +0000",
       "minecraft:creeper": "2025-03-22 03:58:11 +0000",
@@ -2627,9 +2628,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-26 04:43:23 +0000",
       "minecraft:nether_wastes": "2025-03-26 16:31:03 +0000",
+      "minecraft:soul_sand_valley": "2025-03-26 16:47:02 +0000",
+      "minecraft:basalt_deltas": "2025-03-26 16:41:02 +0000",
       "minecraft:warped_forest": "2025-03-26 16:34:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
@@ -2688,6 +2691,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-03-26 16:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-26 16:41:26 +0000"
     },
     "done": true
   },
@@ -2751,6 +2760,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-26 16:41:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-03-26 15:23:47 +0000"
@@ -2796,6 +2811,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-26 16:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-26 16:41:26 +0000"
     },
     "done": true
   },
