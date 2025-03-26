@@ -3095,9 +3095,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
-      "has_smithing_trim_template": "2025-03-26 22:15:57 +0000"
+      "has_wither_skeleton_skull": "2025-03-26 22:14:01 +0000"
     },
     "done": true
   },
@@ -3107,21 +3107,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-03-26 22:15:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-03-26 22:14:37 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-03-26 22:14:01 +0000"
+      "has_smithing_trim_template": "2025-03-26 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-26 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-03-26 22:31:31 +0000"
     },
     "done": true
   },
