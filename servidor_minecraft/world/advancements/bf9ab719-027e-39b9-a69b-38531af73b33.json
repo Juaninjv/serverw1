@@ -2625,7 +2625,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-26 04:43:23 +0000"
+      "minecraft:crimson_forest": "2025-03-26 04:43:23 +0000",
+      "minecraft:nether_wastes": "2025-03-26 16:31:03 +0000",
+      "minecraft:warped_forest": "2025-03-26 16:34:11 +0000"
     },
     "done": false
   },
@@ -2713,6 +2715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-26 16:34:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-03-26 16:02:56 +0000"
@@ -2758,6 +2766,24 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-26 16:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-03-26 16:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-03-26 16:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-26 16:35:42 +0000"
     },
     "done": true
   },
