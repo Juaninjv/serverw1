@@ -1,28 +1,27 @@
-[01:33:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:33:47] [ServerMain/INFO]: Loaded 1290 recipes
-[01:33:47] [ServerMain/INFO]: Loaded 1399 advancements
-[01:33:48] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:33:48] [Server thread/INFO]: Loading properties
-[01:33:48] [Server thread/INFO]: Default game type: SURVIVAL
-[01:33:48] [Server thread/INFO]: Generating keypair
-[01:33:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:33:48] [Server thread/INFO]: Using epoll channel type
-[01:33:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:33:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:33:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:33:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:33:49] [Server thread/INFO]: Preparing level "world"
-[01:33:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:33:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:33:57] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:33:58] [Server thread/INFO]: Time elapsed: 757 ms
-[01:33:58] [Server thread/INFO]: Done (9.019s)! For help, type "help"
-[01:34:25] [Server thread/INFO]: juank18sv[/127.53.75.47:38593] logged in with entity id 4 at (901.2784741552528, 60.0, -241.30000001192093)
-[01:34:25] [Server thread/INFO]: juank18sv joined the game
-[01:55:02] [Server thread/INFO]: Whiter_YT2[/127.2.41.182:42559] logged in with entity id 3850 at (844.5870686393329, 68.9375, -404.43236033818744)
-[01:55:02] [Server thread/INFO]: Whiter_YT2 joined the game
-[01:55:20] [Server thread/INFO]: [Not Secure] <Whiter_YT2> hola discord?
-[01:55:47] [Server thread/INFO]: [Not Secure] <juank18sv> hoal
-[01:57:35] [Server thread/INFO]: juank18sv has made the advancement [Suit Up]
-[01:57:41] [Server thread/INFO]: [Not Secure] <Whiter_YT2> contesta mierd
-[02:11:38] [Server thread/INFO]: [Not Secure] <Whiter_YT2> zzzz
+[02:30:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:30:06] [ServerMain/INFO]: Loaded 1290 recipes
+[02:30:06] [ServerMain/INFO]: Loaded 1399 advancements
+[02:30:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:30:07] [Server thread/INFO]: Loading properties
+[02:30:07] [Server thread/INFO]: Default game type: SURVIVAL
+[02:30:07] [Server thread/INFO]: Generating keypair
+[02:30:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:30:09] [Server thread/INFO]: Using epoll channel type
+[02:30:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:30:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:30:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:30:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:30:09] [Server thread/INFO]: Preparing level "world"
+[02:30:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:30:21] [Worker-Main-1/INFO]: Preparing spawn area: 93%
+[02:30:21] [Server thread/INFO]: Time elapsed: 2686 ms
+[02:30:21] [Server thread/INFO]: Done (12.169s)! For help, type "help"
+[02:30:24] [Server thread/INFO]: juank18sv[/127.53.75.47:60759] logged in with entity id 4 at (856.0250570021952, -32.0, -448.67262391964437)
+[02:30:24] [Server thread/INFO]: juank18sv joined the game
+[02:30:31] [Server thread/INFO]: Whiter_YT2[/127.2.41.182:52715] logged in with entity id 181 at (851.6560991758422, -32.0, -443.72625942291677)
+[02:30:31] [Server thread/INFO]: Whiter_YT2 joined the game
