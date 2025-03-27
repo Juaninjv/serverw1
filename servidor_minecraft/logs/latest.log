@@ -34,3 +34,19 @@
 [19:31:13] [Server thread/WARN]: handleDisconnection() called twice
 [19:31:36] [Server thread/INFO]: Whiter_YT2[/127.54.180.116:41935] logged in with entity id 2483 at (-403.27954689827106, 15.0, 38.327012090386724)
 [19:31:36] [Server thread/INFO]: Whiter_YT2 joined the game
+[19:33:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-332, y=13, z=369} jd{x=-339, y=20, z=371}
+[19:34:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-340, y=16, z=370} jd{x=-340, y=20, z=371}
+[19:35:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-341, y=19, z=371} jd{x=-340, y=19, z=369}
+[19:35:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-341, y=19, z=371} jd{x=-344, y=23, z=368}
+[19:36:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-346, y=19, z=369} jd{x=-343, y=28, z=372}
+[19:36:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-346, y=19, z=369} jd{x=-341, y=27, z=373}
+[19:36:46] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[19:36:46] [Server thread/INFO]: Whiter_YT2 left the game
+[19:37:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-341, y=27, z=373} jd{x=-340, y=27, z=372}
+[19:37:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-341, y=27, z=373} jd{x=-340, y=27, z=374}
+[19:38:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-344, y=26, z=373} jd{x=-342, y=27, z=374}
+[19:38:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-344, y=27, z=374} jd{x=-343, y=27, z=374}
+[19:38:28] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-344, y=27, z=374} jd{x=-345, y=27, z=373}
+[19:38:40] [Server thread/INFO]: Whiter_YT2[/127.54.180.116:43567] logged in with entity id 4055 at (-419.5148748513778, 15.0, 65.41920467022042)
+[19:38:40] [Server thread/INFO]: Whiter_YT2 joined the game
+[19:39:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-342, y=25, z=380} jd{x=-342, y=20, z=385}
