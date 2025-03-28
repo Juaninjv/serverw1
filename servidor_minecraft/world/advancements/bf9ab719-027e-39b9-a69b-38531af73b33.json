@@ -634,6 +634,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-22 03:45:22 +0000",
       "bread": "2025-03-22 04:12:06 +0000",
+      "golden_apple": "2025-03-28 18:34:27 +0000",
       "rotten_flesh": "2025-03-21 22:18:42 +0000",
       "cooked_mutton": "2025-03-22 05:11:15 +0000",
       "glow_berries": "2025-03-26 19:12:34 +0000",
@@ -3545,6 +3546,18 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-03-28 17:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-28 18:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-03-28 18:31:43 +0000"
     },
     "done": true
   },
