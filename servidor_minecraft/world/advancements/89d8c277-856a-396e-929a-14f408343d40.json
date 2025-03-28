@@ -499,6 +499,7 @@
       "bread": "2025-03-22 03:56:01 +0000",
       "golden_apple": "2025-03-28 04:01:13 +0000",
       "rotten_flesh": "2025-03-22 03:32:14 +0000",
+      "suspicious_stew": "2025-03-28 19:13:25 +0000",
       "cooked_mutton": "2025-03-22 03:35:54 +0000",
       "cooked_beef": "2025-03-22 05:09:57 +0000",
       "beef": "2025-03-22 03:31:51 +0000",
@@ -3191,6 +3192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-03-28 19:21:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-28 18:53:05 +0000"
@@ -3230,6 +3237,12 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-03-28 18:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-03-28 19:13:25 +0000"
     },
     "done": true
   },
