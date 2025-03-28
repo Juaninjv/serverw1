@@ -1,22 +1,25 @@
-[00:30:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:30:09] [ServerMain/INFO]: Loaded 1290 recipes
-[00:30:10] [ServerMain/INFO]: Loaded 1399 advancements
-[00:30:11] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:30:11] [Server thread/INFO]: Loading properties
-[00:30:11] [Server thread/INFO]: Default game type: SURVIVAL
-[00:30:11] [Server thread/INFO]: Generating keypair
-[00:30:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:30:11] [Server thread/INFO]: Using epoll channel type
-[00:30:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:30:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:30:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:30:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:30:11] [Server thread/INFO]: Preparing level "world"
-[00:30:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:30:20] [Server thread/INFO]: Time elapsed: 730 ms
-[00:30:20] [Server thread/INFO]: Done (9.005s)! For help, type "help"
-[00:30:30] [Server thread/INFO]: juank18sv[/127.53.75.47:36221] logged in with entity id 66 at (853.005060658534, 63.0, -326.22560675313224)
-[00:30:30] [Server thread/INFO]: juank18sv joined the game
-[00:52:54] [Server thread/INFO]: juank18sv has made the advancement [Voluntary Exile]
+[02:29:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:29:27] [ServerMain/INFO]: Loaded 1290 recipes
+[02:29:27] [ServerMain/INFO]: Loaded 1399 advancements
+[02:29:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:29:28] [Server thread/INFO]: Loading properties
+[02:29:28] [Server thread/INFO]: Default game type: SURVIVAL
+[02:29:28] [Server thread/INFO]: Generating keypair
+[02:29:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:29:28] [Server thread/INFO]: Using epoll channel type
+[02:29:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:29:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:29:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:29:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:29:28] [Server thread/INFO]: Preparing level "world"
+[02:29:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:29:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:29:37] [Server thread/INFO]: Time elapsed: 822 ms
+[02:29:37] [Server thread/INFO]: Done (9.282s)! For help, type "help"
+[02:30:01] [Server thread/INFO]: Whiter_YT2[/127.136.157.4:58561] logged in with entity id 66 at (883.8451012666042, 65.0, -345.4299201239804)
+[02:30:01] [Server thread/INFO]: Whiter_YT2 joined the game
+[02:30:46] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[02:30:46] [Server thread/INFO]: Whiter_YT2 left the game
+[02:32:17] [Server thread/INFO]: Whiter_YT2[/127.136.157.4:37589] logged in with entity id 377 at (893.341276247098, 63.0, -321.4654843407144)
+[02:32:17] [Server thread/INFO]: Whiter_YT2 joined the game
