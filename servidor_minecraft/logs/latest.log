@@ -21,3 +21,7 @@
 [16:38:23] [Server thread/INFO]: Done (9.843s)! For help, type "help"
 [16:38:26] [Server thread/INFO]: juank18sv[/127.53.75.47:40419] logged in with entity id 67 at (896.9470729294969, 60.0, -256.40590176682736)
 [16:38:26] [Server thread/INFO]: juank18sv joined the game
+[17:18:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=296, y=60, z=-33} jd{x=296, y=60, z=-32}
+[17:18:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=296, y=59, z=-33} jd{x=296, y=60, z=-32}
+[17:18:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=296, y=60, z=-34} jd{x=296, y=60, z=-32}
+[17:18:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=296, y=59, z=-34} jd{x=296, y=60, z=-32}
