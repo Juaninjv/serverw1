@@ -1,29 +1,22 @@
-[02:29:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:29:27] [ServerMain/INFO]: Loaded 1290 recipes
-[02:29:27] [ServerMain/INFO]: Loaded 1399 advancements
-[02:29:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:29:28] [Server thread/INFO]: Loading properties
-[02:29:28] [Server thread/INFO]: Default game type: SURVIVAL
-[02:29:28] [Server thread/INFO]: Generating keypair
-[02:29:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:29:28] [Server thread/INFO]: Using epoll channel type
-[02:29:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:29:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:29:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:29:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:29:28] [Server thread/INFO]: Preparing level "world"
-[02:29:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:29:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:29:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:29:37] [Server thread/INFO]: Time elapsed: 822 ms
-[02:29:37] [Server thread/INFO]: Done (9.282s)! For help, type "help"
-[02:30:01] [Server thread/INFO]: Whiter_YT2[/127.136.157.4:58561] logged in with entity id 66 at (883.8451012666042, 65.0, -345.4299201239804)
-[02:30:01] [Server thread/INFO]: Whiter_YT2 joined the game
-[02:30:46] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[02:30:46] [Server thread/INFO]: Whiter_YT2 left the game
-[02:32:17] [Server thread/INFO]: Whiter_YT2[/127.136.157.4:37589] logged in with entity id 377 at (893.341276247098, 63.0, -321.4654843407144)
-[02:32:17] [Server thread/INFO]: Whiter_YT2 joined the game
-[02:52:06] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[02:52:06] [Server thread/INFO]: Whiter_YT2 left the game
-[02:58:10] [Server thread/INFO]: Whiter_YT2[/127.136.157.4:34081] logged in with entity id 4242 at (901.4087454222259, 60.0, -248.0502053511976)
-[02:58:10] [Server thread/INFO]: Whiter_YT2 joined the game
+[03:02:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:03:00] [ServerMain/INFO]: Loaded 1290 recipes
+[03:03:01] [ServerMain/INFO]: Loaded 1399 advancements
+[03:03:02] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:03:02] [Server thread/INFO]: Loading properties
+[03:03:02] [Server thread/INFO]: Default game type: SURVIVAL
+[03:03:02] [Server thread/INFO]: Generating keypair
+[03:03:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:03:03] [Server thread/INFO]: Using epoll channel type
+[03:03:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:03:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:03:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:03:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:03:03] [Server thread/INFO]: Preparing level "world"
+[03:03:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:03:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:03:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:03:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:03:14] [Server thread/INFO]: Time elapsed: 1486 ms
+[03:03:14] [Server thread/INFO]: Done (10.742s)! For help, type "help"
+[03:04:22] [Server thread/INFO]: Whiter_YT2[/127.136.157.4:37975] logged in with entity id 66 at (913.3754948168494, 68.5, -260.36508232528325)
+[03:04:22] [Server thread/INFO]: Whiter_YT2 joined the game
