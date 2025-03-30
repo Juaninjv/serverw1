@@ -27,3 +27,12 @@
 [19:31:12] [Server thread/WARN]: UUID of added entity already exists: cjt['Enderman'/327, l='ServerLevel[world]', x=-2.40, y=93.00, z=-208.03]
 [19:34:44] [Server thread/INFO]: [Not Secure] <Whiter_YT2> -8 85 -158
 [19:36:45] [Server thread/INFO]: [Not Secure] <juank18sv> t
+[19:39:06] [Server thread/INFO]: juank18sv lost connection: Disconnected
+[19:39:06] [Server thread/INFO]: juank18sv left the game
+[19:42:41] [Server thread/INFO]: Lucatielv[/127.53.75.47:59313] logged in with entity id 3044 at (-33.5, 65.0, -65.5)
+[19:42:41] [Server thread/INFO]: Lucatielv joined the game
+[19:43:06] [Server thread/INFO]: Lucatielv has made the advancement [We Need to Go Deeper]
+[19:44:04] [Server thread/INFO]: [Not Secure] <Lucatielv> -26 ? 58
+[19:45:25] [Server thread/INFO]: Lucatielv fell from a high place
+[19:45:48] [Server thread/INFO]: Lucatielv has made the advancement [Monster Hunter]
+[19:47:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-33, y=58, z=48} jd{x=-33, y=59, z=48}
