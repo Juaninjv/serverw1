@@ -52,3 +52,14 @@
 [19:56:50] [Server thread/INFO]: Lucatielv has made the advancement [Stone Age]
 [19:56:57] [Server thread/INFO]: Lucatielv has made the advancement [Suit Up]
 [19:57:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-15, y=50, z=34} jd{x=-22, y=36, z=25}
+[19:59:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-21, y=34, z=25} jd{x=-21, y=31, z=23}
+[20:00:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-21, y=34, z=25} jd{x=-23, y=31, z=22}
+[20:01:11] [Server thread/INFO]: Lucatielv lost connection: Disconnected
+[20:01:11] [Server thread/INFO]: Lucatielv left the game
+[20:01:36] [Server thread/INFO]: Lucatielv[/127.53.75.47:33143] logged in with entity id 7053 at (9.160734792701279, 61.0, 30.605773391694626)
+[20:01:36] [Server thread/INFO]: Lucatielv joined the game
+[20:02:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-15, y=52, z=29} jd{x=-27, y=43, z=21}
+[20:02:39] [Server thread/INFO]: Lucatielv fell from a high place
+[20:03:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-15, y=52, z=29} jd{x=-21, y=31, z=22}
+[20:05:40] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[20:05:40] [Server thread/INFO]: Whiter_YT2 left the game
