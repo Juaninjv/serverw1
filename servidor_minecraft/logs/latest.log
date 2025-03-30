@@ -31,3 +31,5 @@
 [18:27:34] [Server thread/INFO]: Whiter_YT2[/127.92.184.164:36587] logged in with entity id 18616 at (952.6240003090926, -32.0, -376.2950709271778)
 [18:27:34] [Server thread/INFO]: Whiter_YT2 joined the game
 [18:47:10] [Server thread/WARN]: juank18sv moved too quickly! 9.108809257470512,-3.0,3.367153448559293
+[19:03:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-74, y=59, z=-30} jd{x=-73, y=58, z=-30}
+[19:09:09] [Server thread/INFO]: juank18sv was slain by Enderman
