@@ -869,7 +869,8 @@
       "minecraft:spider": "2025-03-24 09:24:36 +0000",
       "minecraft:piglin_brute": "2025-03-28 18:23:39 +0000",
       "minecraft:zombie": "2025-03-22 03:50:23 +0000",
-      "minecraft:creeper": "2025-03-22 03:58:11 +0000"
+      "minecraft:creeper": "2025-03-22 03:58:11 +0000",
+      "minecraft:drowned": "2025-03-31 18:12:57 +0000"
     },
     "done": false
   },
@@ -3641,6 +3642,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-03-30 21:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-31 18:16:51 +0000"
     },
     "done": true
   },

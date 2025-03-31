@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-31 18:11:58 +0000",
       "minecraft:flower_forest": "2025-03-22 04:15:50 +0000",
       "minecraft:beach": "2025-03-22 03:22:55 +0000",
       "minecraft:dark_forest": "2025-03-22 05:47:30 +0000",
@@ -15,7 +16,9 @@
       "minecraft:river": "2025-03-22 03:27:03 +0000",
       "minecraft:lukewarm_ocean": "2025-03-22 05:21:17 +0000",
       "minecraft:dripstone_caves": "2025-03-24 02:50:54 +0000",
+      "minecraft:deep_cold_ocean": "2025-03-31 18:08:28 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-22 03:27:29 +0000",
+      "minecraft:deep_frozen_ocean": "2025-03-31 18:16:24 +0000",
       "minecraft:ocean": "2025-03-22 03:31:34 +0000",
       "minecraft:jungle": "2025-03-22 05:24:26 +0000",
       "minecraft:sunflower_plains": "2025-03-22 05:42:14 +0000",
@@ -3479,6 +3482,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-03-30 20:55:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-31 18:16:22 +0000"
     },
     "done": true
   },
