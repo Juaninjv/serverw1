@@ -3464,9 +3464,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_lamp": {
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {
-      "has_glowstone": "2025-03-30 20:55:47 +0000"
+      "has_cobbled_deepslate_slab": "2025-03-30 20:41:12 +0000"
     },
     "done": true
   },
@@ -3476,9 +3476,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+  "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
-      "has_cobbled_deepslate_slab": "2025-03-30 20:41:12 +0000"
+      "has_glowstone": "2025-03-30 20:55:47 +0000"
     },
     "done": true
   },
