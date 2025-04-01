@@ -1,23 +1,26 @@
-[01:44:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:44:30] [ServerMain/INFO]: Loaded 1290 recipes
-[01:44:30] [ServerMain/INFO]: Loaded 1399 advancements
-[01:44:31] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:44:31] [Server thread/INFO]: Loading properties
-[01:44:31] [Server thread/INFO]: Default game type: SURVIVAL
-[01:44:31] [Server thread/INFO]: Generating keypair
-[01:44:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:44:31] [Server thread/INFO]: Using epoll channel type
-[01:44:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:44:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:44:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:44:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:44:32] [Server thread/INFO]: Preparing level "world"
-[01:44:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:44:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:44:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:44:38] [Server thread/INFO]: Time elapsed: 770 ms
-[01:44:38] [Server thread/INFO]: Done (6.092s)! For help, type "help"
-[01:45:53] [Server thread/INFO]: Whiter_YT2[/127.228.95.210:60827] logged in with entity id 66 at (309.4100252160439, 59.0, -20.250007917367178)
-[01:45:53] [Server thread/INFO]: Whiter_YT2 joined the game
-[02:03:59] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[02:03:59] [Server thread/INFO]: Whiter_YT2 left the game
+[02:28:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:28:17] [ServerMain/INFO]: Loaded 1290 recipes
+[02:28:17] [ServerMain/INFO]: Loaded 1399 advancements
+[02:28:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:28:18] [Server thread/INFO]: Loading properties
+[02:28:18] [Server thread/INFO]: Default game type: SURVIVAL
+[02:28:18] [Server thread/INFO]: Generating keypair
+[02:28:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:28:18] [Server thread/INFO]: Using epoll channel type
+[02:28:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:28:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:28:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:28:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:28:19] [Server thread/INFO]: Preparing level "world"
+[02:28:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:28:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:28:28] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[02:28:29] [Worker-Main-1/INFO]: Preparing spawn area: 75%
+[02:28:29] [Worker-Main-1/INFO]: Preparing spawn area: 75%
+[02:28:29] [Server thread/INFO]: Time elapsed: 2742 ms
+[02:28:29] [Server thread/INFO]: Done (10.853s)! For help, type "help"
+[02:28:46] [Server thread/INFO]: Whiter_YT2[/127.228.95.210:38649] logged in with entity id 66 at (95.39611423857824, 60.0, -36.0125304771528)
+[02:28:46] [Server thread/INFO]: Whiter_YT2 joined the game
+[02:29:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
