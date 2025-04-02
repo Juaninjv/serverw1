@@ -38,3 +38,9 @@
 [03:00:50] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -9.444189008289413,0.0,-11.868733911696495
 [03:00:50] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -9.702493035005773,0.0,-12.174051920212719
 [03:16:01] [Server thread/INFO]: [Not Secure] <Whiter_YT2> 481 64 -1336
+[03:44:43] [Server thread/INFO]: [Not Secure] <Whiter_YT2> 111 -33
+[03:46:42] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[03:46:42] [Server thread/INFO]: Whiter_YT2 left the game
+[03:46:42] [Server thread/WARN]: handleDisconnection() called twice
+[03:47:43] [Server thread/INFO]: Whiter_YT2[/127.205.84.141:40119] logged in with entity id 16028 at (66.06362549189868, 128.0, -17.43721112927914)
+[03:47:43] [Server thread/INFO]: Whiter_YT2 joined the game
