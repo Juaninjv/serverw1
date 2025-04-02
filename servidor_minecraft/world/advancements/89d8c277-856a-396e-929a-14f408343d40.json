@@ -3567,6 +3567,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-02 02:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/use_lodestone": {
+    "criteria": {
+      "use_lodestone": "2025-04-02 02:56:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-02 03:03:20 +0000"
@@ -3621,13 +3633,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
-      "has_compass": "2025-04-02 02:56:01 +0000"
+      "has_sandstone": "2025-04-02 03:03:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-02 03:03:20 +0000"
     },
@@ -3645,21 +3657,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
-    "criteria": {
-      "has_sandstone": "2025-04-02 03:03:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-04-02 03:23:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/use_lodestone": {
-    "criteria": {
-      "use_lodestone": "2025-04-02 02:56:13 +0000"
     },
     "done": true
   },
