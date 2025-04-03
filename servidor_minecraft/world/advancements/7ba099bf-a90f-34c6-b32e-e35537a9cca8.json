@@ -311,6 +311,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_cod": "2025-04-03 20:37:20 +0000",
+      "cooked_beef": "2025-04-03 20:44:17 +0000",
       "golden_carrot": "2025-03-30 20:09:32 +0000"
     },
     "done": false
