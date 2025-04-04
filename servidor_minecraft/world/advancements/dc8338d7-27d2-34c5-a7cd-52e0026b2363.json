@@ -7,9 +7,34 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2025-03-31 19:05:04 +0000"
+      "minecraft:beach": "2025-03-31 19:05:04 +0000",
+      "minecraft:plains": "2025-04-04 18:33:20 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-04 18:27:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-04 18:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-04 18:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-04-04 18:27:06 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3955
 }

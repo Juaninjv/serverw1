@@ -8,29 +8,32 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-31 18:11:58 +0000",
-      "minecraft:flower_forest": "2025-03-22 04:15:50 +0000",
-      "minecraft:beach": "2025-03-22 03:22:55 +0000",
-      "minecraft:dark_forest": "2025-03-22 05:47:30 +0000",
       "minecraft:forest": "2025-03-22 03:27:19 +0000",
-      "minecraft:mangrove_swamp": "2025-04-02 03:19:07 +0000",
-      "minecraft:sparse_jungle": "2025-04-02 03:21:59 +0000",
+      "minecraft:taiga": "2025-04-04 18:13:22 +0000",
       "minecraft:deep_ocean": "2025-03-22 03:31:56 +0000",
-      "minecraft:river": "2025-03-22 03:27:03 +0000",
-      "minecraft:lukewarm_ocean": "2025-03-22 05:21:17 +0000",
-      "minecraft:dripstone_caves": "2025-03-24 02:50:54 +0000",
       "minecraft:deep_cold_ocean": "2025-03-31 18:08:28 +0000",
-      "minecraft:old_growth_birch_forest": "2025-03-22 03:27:29 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-31 18:16:24 +0000",
       "minecraft:ocean": "2025-03-22 03:31:34 +0000",
       "minecraft:jungle": "2025-03-22 05:24:26 +0000",
       "minecraft:sunflower_plains": "2025-03-22 05:42:14 +0000",
-      "minecraft:swamp": "2025-03-24 03:54:53 +0000",
       "minecraft:birch_forest": "2025-03-22 05:39:48 +0000",
       "minecraft:windswept_hills": "2025-03-24 03:50:21 +0000",
-      "minecraft:savanna": "2025-03-22 05:21:24 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-04 18:11:43 +0000",
       "minecraft:bamboo_jungle": "2025-04-02 03:26:22 +0000",
-      "minecraft:plains": "2025-03-22 03:33:03 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-03-22 05:20:45 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-03-22 05:20:45 +0000",
+      "minecraft:flower_forest": "2025-03-22 04:15:50 +0000",
+      "minecraft:beach": "2025-03-22 03:22:55 +0000",
+      "minecraft:dark_forest": "2025-03-22 05:47:30 +0000",
+      "minecraft:mangrove_swamp": "2025-04-02 03:19:07 +0000",
+      "minecraft:sparse_jungle": "2025-04-02 03:21:59 +0000",
+      "minecraft:river": "2025-03-22 03:27:03 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-22 05:21:17 +0000",
+      "minecraft:stony_shore": "2025-04-04 17:55:47 +0000",
+      "minecraft:dripstone_caves": "2025-03-24 02:50:54 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-22 03:27:29 +0000",
+      "minecraft:swamp": "2025-03-24 03:54:53 +0000",
+      "minecraft:savanna": "2025-03-22 05:21:24 +0000",
+      "minecraft:plains": "2025-03-22 03:33:03 +0000"
     },
     "done": false
   },
@@ -477,6 +480,7 @@
       "minecraft:blaze": "2025-03-26 21:47:18 +0000",
       "minecraft:skeleton": "2025-03-22 05:32:57 +0000",
       "minecraft:wither_skeleton": "2025-03-26 22:15:00 +0000",
+      "minecraft:bogged": "2025-04-04 18:28:31 +0000",
       "minecraft:ghast": "2025-03-26 22:29:12 +0000",
       "minecraft:hoglin": "2025-03-26 21:34:32 +0000",
       "minecraft:cave_spider": "2025-03-26 02:22:02 +0000",
@@ -3678,6 +3682,30 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-04-04 17:36:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-04 18:16:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-04 18:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-04 18:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-04 18:16:08 +0000"
     },
     "done": true
   },
