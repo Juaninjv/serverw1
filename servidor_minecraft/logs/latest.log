@@ -25,3 +25,9 @@
 [19:50:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2196, y=126, z=184} jd{x=2197, y=127, z=181}
 [19:50:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2198, y=134, z=191} jd{x=2198, y=133, z=193}
 [19:50:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2198, y=134, z=191} jd{x=2198, y=133, z=193}
+[19:56:22] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[19:56:22] [Server thread/INFO]: Whiter_YT2 left the game
+[19:57:11] [Server thread/INFO]: juank18sv lost connection: Disconnected
+[19:57:11] [Server thread/INFO]: juank18sv left the game
+[20:02:33] [Server thread/INFO]: Whiter_YT2[/127.167.255.236:38161] logged in with entity id 14238 at (2243.2193882026572, 133.0, 152.52601170778607)
+[20:02:33] [Server thread/INFO]: Whiter_YT2 joined the game
