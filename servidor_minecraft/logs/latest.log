@@ -20,3 +20,8 @@
 [18:46:01] [Server thread/INFO]: Whiter_YT2[/127.167.255.236:35103] logged in with entity id 62 at (1960.9741926605739, 62.110764312744145, 92.95711444057528)
 [18:46:01] [Server thread/INFO]: Whiter_YT2 joined the game
 [19:03:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2387ms or 47 ticks behind
+[19:47:38] [Server thread/INFO]: juank18sv[/127.53.75.47:50977] logged in with entity id 13105 at (2045.2442216268237, 60.3893680356981, 221.63711081286095)
+[19:47:39] [Server thread/INFO]: juank18sv joined the game
+[19:50:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2196, y=126, z=184} jd{x=2197, y=127, z=181}
+[19:50:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2198, y=134, z=191} jd{x=2198, y=133, z=193}
+[19:50:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2198, y=134, z=191} jd{x=2198, y=133, z=193}

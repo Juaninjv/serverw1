@@ -31,6 +31,7 @@
       "minecraft:snowy_plains": "2025-03-24 09:13:18 +0000",
       "minecraft:dripstone_caves": "2025-03-24 18:21:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-21 22:20:10 +0000",
+      "minecraft:grove": "2025-04-05 19:50:24 +0000",
       "minecraft:windswept_gravelly_hills": "2025-03-24 03:57:34 +0000",
       "minecraft:plains": "2025-03-22 03:33:03 +0000"
     },
@@ -3649,6 +3650,18 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-03-31 18:16:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-05 19:50:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-05 19:50:24 +0000"
     },
     "done": true
   },
