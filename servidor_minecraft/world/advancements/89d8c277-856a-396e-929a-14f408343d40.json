@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2025-03-31 18:11:58 +0000",
+      "minecraft:snowy_slopes": "2025-04-05 03:45:01 +0000",
       "minecraft:forest": "2025-03-22 03:27:19 +0000",
       "minecraft:taiga": "2025-04-04 18:13:22 +0000",
       "minecraft:deep_ocean": "2025-03-22 03:31:56 +0000",
@@ -30,8 +31,10 @@
       "minecraft:lukewarm_ocean": "2025-03-22 05:21:17 +0000",
       "minecraft:stony_shore": "2025-04-04 17:55:47 +0000",
       "minecraft:dripstone_caves": "2025-03-24 02:50:54 +0000",
+      "minecraft:frozen_peaks": "2025-04-05 03:44:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-22 03:27:29 +0000",
       "minecraft:swamp": "2025-03-24 03:54:53 +0000",
+      "minecraft:grove": "2025-04-05 03:45:08 +0000",
       "minecraft:savanna": "2025-03-22 05:21:24 +0000",
       "minecraft:plains": "2025-03-22 03:33:03 +0000"
     },
@@ -3737,6 +3740,18 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-04-04 19:28:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-05 03:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-05 03:42:13 +0000"
     },
     "done": true
   },

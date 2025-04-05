@@ -20,3 +20,10 @@
 [03:34:43] [Server thread/INFO]: Done (9.096s)! For help, type "help"
 [03:35:36] [Server thread/INFO]: Whiter_YT2[/127.227.141.119:41753] logged in with entity id 62 at (2044.126943872927, 61.55599033585217, 245.62702810950267)
 [03:35:36] [Server thread/INFO]: Whiter_YT2 joined the game
+[03:45:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2144, y=143, z=242} jd{x=2144, y=142, z=241}
+[03:45:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2144, y=143, z=242} jd{x=2144, y=142, z=241}
+[03:45:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2144, y=143, z=242} jd{x=2144, y=142, z=241}
+[03:45:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2144, y=143, z=242} jd{x=2144, y=142, z=241}
+[03:45:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2144, y=143, z=242} jd{x=2144, y=142, z=241}
+[03:45:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2144, y=143, z=242} jd{x=2144, y=142, z=241}
+[03:45:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=2144, y=143, z=242} jd{x=2144, y=142, z=241}
