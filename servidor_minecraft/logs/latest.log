@@ -1,91 +1,22 @@
-[17:24:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:24:06] [ServerMain/INFO]: Loaded 1290 recipes
-[17:24:07] [ServerMain/INFO]: Loaded 1399 advancements
-[17:24:08] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[17:24:08] [Server thread/INFO]: Loading properties
-[17:24:08] [Server thread/INFO]: Default game type: SURVIVAL
-[17:24:08] [Server thread/INFO]: Generating keypair
-[17:24:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:24:09] [Server thread/INFO]: Using epoll channel type
-[17:24:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:24:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:24:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:24:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:24:09] [Server thread/INFO]: Preparing level "world"
-[17:24:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:24:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:24:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:24:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:24:19] [Server thread/INFO]: Time elapsed: 1543 ms
-[17:24:19] [Server thread/INFO]: Done (10.019s)! For help, type "help"
-[17:26:39] [Server thread/INFO]: Whiter_YT2[/127.252.29.119:45735] logged in with entity id 13 at (842.5087407366476, 63.0, -408.41532348000254)
-[17:26:39] [Server thread/INFO]: Whiter_YT2 joined the game
-[18:02:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
-[18:05:18] [Server thread/INFO]: juank18sv[/127.53.75.47:54199] logged in with entity id 15482 at (256.9590658927793, 34.0, -24.532792221450123)
-[18:05:18] [Server thread/INFO]: juank18sv joined the game
-[18:08:51] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[18:08:51] [Server thread/INFO]: Whiter_YT2 left the game
-[18:09:16] [Server thread/INFO]: Whiter_YT2[/127.252.29.119:54873] logged in with entity id 17199 at (-2514.7211726520763, 78.0, 705.917186859993)
-[18:09:16] [Server thread/INFO]: Whiter_YT2 joined the game
-[18:21:15] [Server thread/INFO]: juank18sv was doomed to fall by Zombie
-[18:21:16] [Server thread/INFO]: juank18sv lost connection: Disconnected
-[18:21:16] [Server thread/INFO]: juank18sv left the game
-[18:21:28] [Server thread/INFO]: juank18sv[/127.53.75.47:56075] logged in with entity id 25473 at (247.53188598919374, 49.0, -105.69999998807907)
-[18:21:28] [Server thread/INFO]: juank18sv joined the game
-[18:22:32] [Server thread/INFO]: juank18sv lost connection: Disconnected
-[18:22:32] [Server thread/INFO]: juank18sv left the game
-[18:22:38] [Server thread/INFO]: juank18sv[/127.53.75.47:57625] logged in with entity id 26910 at (245.22936438116452, 52.72906941194748, -105.68217583534063)
-[18:22:38] [Server thread/INFO]: juank18sv joined the game
-[18:26:38] [Server thread/INFO]: Asland[/127.53.75.47:50463] logged in with entity id 29317 at (-21.5, 66.0, -57.5)
-[18:26:38] [Server thread/INFO]: Asland joined the game
-[18:27:03] [Server thread/INFO]: Asland has made the advancement [We Need to Go Deeper]
-[18:27:06] [Server thread/INFO]: Asland was doomed to fall by Skeleton
-[18:27:36] [Server thread/INFO]: Asland was doomed to fall by Skeleton
-[18:27:45] [Server thread/INFO]: [Not Secure] <Whiter_YT2> loco
-[18:28:03] [Server thread/INFO]: Asland was shot by Skeleton
-[18:28:57] [Server thread/INFO]: Asland tried to swim in lava to escape Skeleton
-[18:30:15] [Server thread/INFO]: [Not Secure] <Whiter_YT2> loco
-[18:31:13] [Server thread/INFO]: [Not Secure] <Whiter_YT2> bro
-[18:35:00] [Server thread/INFO]: [Not Secure] <Whiter_YT2> loco
-[18:41:45] [Server thread/INFO]: Asland lost connection: Disconnected
-[18:41:45] [Server thread/INFO]: Asland left the game
-[18:49:41] [Server thread/INFO]: [Not Secure] <Whiter_YT2> juank
-[18:49:53] [Server thread/INFO]: [Not Secure] <Whiter_YT2> estas silenciado
-[18:52:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -2.681134678090757,8.319172891901871E-5,9.64326224106128
-[18:52:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -2.8019770949071017,8.367144643983693E-5,10.02166893263393
-[18:52:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -2.9233771738989844,8.42611927538428E-5,10.40018467573816
-[18:52:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -3.0452900630048134,8.488507122450528E-5,10.778794929334936
-[18:52:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -3.1676753953702246,8.54833587808912E-5,11.157486602764152
-[18:52:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -3.2904932021499462,8.601336288904804E-5,11.536249125151357
-[18:58:37] [Server thread/INFO]: [Not Secure] <juank18sv> haceme un tp
-[19:01:06] [Server thread/INFO]: Asland[/127.53.75.47:51259] logged in with entity id 48042 at (904.9022244842345, 65.0, -243.30866844046443)
-[19:01:06] [Server thread/INFO]: Asland joined the game
-[19:01:58] [Server thread/INFO]: Asland has made the advancement [Cover Me with Diamonds]
-[19:02:02] [Server thread/INFO]: Asland has made the advancement [Suit Up]
-[19:03:06] [Server thread/INFO]: Asland has made the advancement [Sweet Dreams]
-[19:12:08] [Server thread/INFO]: juank18sv was burned to a crisp while fighting Whiter_YT2
-[19:20:39] [Server thread/INFO]: Asland lost connection: Kicked by an operator
-[19:20:39] [Server thread/INFO]: Asland left the game
-[19:20:39] [Server thread/INFO]: Kicked Asland: Kicked by an operator
-[19:20:39] [Server thread/WARN]: handleDisconnection() called twice
-[19:21:21] [Server thread/INFO]: [Not Secure] <juank18sv> cualquier cosa te escribo si queres
-[19:21:27] [Server thread/INFO]: [Not Secure] <juank18sv> jajsa
-[19:21:38] [Server thread/INFO]: [Not Secure] <juank18sv> la repinga
-[19:21:48] [Server thread/INFO]: [Not Secure] <juank18sv> asi no escuchas a mi sobrino jajajaj
-[19:21:53] [Server thread/INFO]: [Not Secure] <juank18sv> esta lejos mi telefono
-[19:22:42] [Server thread/INFO]: [Not Secure] <juank18sv> alguien golpea la mano
-[19:22:43] [Server thread/INFO]: [Not Secure] <juank18sv> esperame
-[19:31:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=62, z=-512} jd{x=815, y=61, z=-512}
-[19:33:44] [Server thread/INFO]: [Not Secure] <Whiter_YT2> zzz
-[19:56:11] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[19:56:11] [Server thread/INFO]: Whiter_YT2 left the game
-[19:57:09] [Server thread/INFO]: Whiter_YT2[/127.161.152.112:40227] logged in with entity id 59471 at (1719.6936179503455, 62.110764312744145, 38.55085097074345)
-[19:57:09] [Server thread/INFO]: Whiter_YT2 joined the game
-[20:01:10] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[20:01:10] [Server thread/INFO]: Whiter_YT2 left the game
-[20:04:00] [Server thread/INFO]: Whiter_YT2[/127.252.29.119:54909] logged in with entity id 60487 at (1858.7390861416445, 65.0, 117.34656358449399)
-[20:04:00] [Server thread/INFO]: Whiter_YT2 joined the game
-[20:05:19] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[20:05:19] [Server thread/INFO]: Whiter_YT2 left the game
-[20:06:00] [Server thread/INFO]: juank18sv lost connection: Disconnected
-[20:06:00] [Server thread/INFO]: juank18sv left the game
+[03:34:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:34:31] [ServerMain/INFO]: Loaded 1290 recipes
+[03:34:31] [ServerMain/INFO]: Loaded 1399 advancements
+[03:34:33] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[03:34:33] [Server thread/INFO]: Loading properties
+[03:34:33] [Server thread/INFO]: Default game type: SURVIVAL
+[03:34:33] [Server thread/INFO]: Generating keypair
+[03:34:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:34:34] [Server thread/INFO]: Using epoll channel type
+[03:34:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:34:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:34:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:34:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:34:34] [Server thread/INFO]: Preparing level "world"
+[03:34:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:34:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:34:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:34:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:34:43] [Server thread/INFO]: Time elapsed: 1535 ms
+[03:34:43] [Server thread/INFO]: Done (9.096s)! For help, type "help"
+[03:35:36] [Server thread/INFO]: Whiter_YT2[/127.227.141.119:41753] logged in with entity id 62 at (2044.126943872927, 61.55599033585217, 245.62702810950267)
+[03:35:36] [Server thread/INFO]: Whiter_YT2 joined the game
