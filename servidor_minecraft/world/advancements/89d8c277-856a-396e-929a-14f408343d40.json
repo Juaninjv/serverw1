@@ -3750,9 +3750,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "walk_on_powder_snow_with_leather_boots": "2025-04-05 04:07:43 +0000"
+      "has_snowball": "2025-04-05 03:42:13 +0000"
     },
     "done": true
   },
@@ -3762,9 +3762,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
-      "has_snowball": "2025-04-05 03:42:13 +0000"
+      "walk_on_powder_snow_with_leather_boots": "2025-04-05 04:07:43 +0000"
     },
     "done": true
   },
