@@ -1,37 +1,28 @@
-[20:04:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:04:56] [ServerMain/INFO]: Loaded 1290 recipes
-[20:04:57] [ServerMain/INFO]: Loaded 1399 advancements
-[20:04:57] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:04:57] [Server thread/INFO]: Loading properties
-[20:04:57] [Server thread/INFO]: Default game type: SURVIVAL
-[20:04:57] [Server thread/INFO]: Generating keypair
-[20:04:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:04:58] [Server thread/INFO]: Using epoll channel type
-[20:04:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:04:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:04:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:04:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:04:58] [Server thread/INFO]: Preparing level "world"
-[20:05:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:05:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:05:07] [Server thread/INFO]: Time elapsed: 849 ms
-[20:05:07] [Server thread/INFO]: Done (9.685s)! For help, type "help"
-[20:05:24] [Server thread/INFO]: juank18sv[/127.53.75.47:49141] logged in with entity id 62 at (159.62517567859427, 59.0, -35.30075420180315)
-[20:05:24] [Server thread/INFO]: juank18sv joined the game
-[20:07:17] [Server thread/INFO]: Whiter_YT2[/127.85.249.148:53969] logged in with entity id 423 at (4976.699999988079, 70.0, -319.30000001192093)
-[20:07:17] [Server thread/INFO]: Whiter_YT2 joined the game
-[20:28:27] [Server thread/INFO]: [Not Secure] <Whiter_YT2> 229 -32
-[20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 0.8349633558495952
-[20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 0.8625490567190468
-[20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 0.8584512690475208
-[20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 0.856628380082384
-[20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 0.9100174175749203
-[20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 1.0158224430610403
-[20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 1.171472991952328
-[20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 0.5057167049063196
-[20:47:05] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[20:47:05] [Server thread/INFO]: Whiter_YT2 left the game
-[20:47:05] [Server thread/WARN]: handleDisconnection() called twice
-[20:48:52] [Server thread/INFO]: Whiter_YT2[/127.85.249.148:58043] logged in with entity id 10031 at (896.4368154341762, 63.1212968405392, -318.63625038299233)
-[20:48:52] [Server thread/INFO]: Whiter_YT2 joined the game
+[21:24:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:24:38] [ServerMain/INFO]: Loaded 1290 recipes
+[21:24:39] [ServerMain/INFO]: Loaded 1399 advancements
+[21:24:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:24:40] [Server thread/INFO]: Loading properties
+[21:24:40] [Server thread/INFO]: Default game type: SURVIVAL
+[21:24:40] [Server thread/INFO]: Generating keypair
+[21:24:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:24:40] [Server thread/INFO]: Using epoll channel type
+[21:24:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:24:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:24:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:24:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:24:41] [Server thread/INFO]: Preparing level "world"
+[21:24:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:24:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:24:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:24:57] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[21:24:57] [Worker-Main-1/INFO]: Preparing spawn area: 12%
+[21:24:57] [Server thread/INFO]: Time elapsed: 2087 ms
+[21:24:57] [Server thread/INFO]: Done (16.229s)! For help, type "help"
+[21:25:02] [Server thread/INFO]: Whiter_YT2[/127.85.249.148:39055] logged in with entity id 62 at (919.8952025836244, 63.0, -287.67612291125266)
+[21:25:02] [Server thread/INFO]: Whiter_YT2 joined the game
+[21:30:34] [Server thread/INFO]: juank18sv[/127.53.75.47:55425] logged in with entity id 1224 at (903.7010276512182, 60.0, -261.4611582984877)
+[21:30:34] [Server thread/INFO]: juank18sv joined the game
+[21:32:03] [Server thread/INFO]: Corpus2020[/127.53.75.47:60047] logged in with entity id 1618 at (-27.5, 65.0, -70.5)
+[21:32:03] [Server thread/INFO]: Corpus2020 joined the game
+[21:32:19] [Server thread/INFO]: Corpus2020 has made the advancement [We Need to Go Deeper]
