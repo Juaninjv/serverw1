@@ -30,3 +30,8 @@
 [20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 1.0158224430610403
 [20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 1.171472991952328
 [20:31:38] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved wrongly! 0.5057167049063196
+[20:47:05] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[20:47:05] [Server thread/INFO]: Whiter_YT2 left the game
+[20:47:05] [Server thread/WARN]: handleDisconnection() called twice
+[20:48:52] [Server thread/INFO]: Whiter_YT2[/127.85.249.148:58043] logged in with entity id 10031 at (896.4368154341762, 63.1212968405392, -318.63625038299233)
+[20:48:52] [Server thread/INFO]: Whiter_YT2 joined the game
