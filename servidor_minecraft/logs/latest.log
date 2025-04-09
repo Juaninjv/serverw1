@@ -1,27 +1,29 @@
-[20:20:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:20:59] [ServerMain/INFO]: Loaded 1290 recipes
-[20:20:59] [ServerMain/INFO]: Loaded 1399 advancements
-[20:21:00] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:21:01] [Server thread/INFO]: Loading properties
-[20:21:01] [Server thread/INFO]: Default game type: SURVIVAL
-[20:21:01] [Server thread/INFO]: Generating keypair
-[20:21:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:21:01] [Server thread/INFO]: Using epoll channel type
-[20:21:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:21:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:21:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:21:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:21:01] [Server thread/INFO]: Preparing level "world"
-[20:21:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:21:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:21:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:21:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:21:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:21:13] [Worker-Main-1/INFO]: Preparing spawn area: 24%
-[20:21:13] [Server thread/INFO]: Time elapsed: 2241 ms
-[20:21:13] [Server thread/INFO]: Done (11.646s)! For help, type "help"
-[20:21:18] [Server thread/INFO]: Whiter_YT2[/127.111.241.96:59059] logged in with entity id 62 at (4978.300000011921, 69.0, -319.5674517472664)
-[20:21:18] [Server thread/INFO]: Whiter_YT2 joined the game
-[20:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[20:45:20] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[20:45:20] [Server thread/INFO]: Whiter_YT2 left the game
+[01:54:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:54:08] [ServerMain/INFO]: Loaded 1290 recipes
+[01:54:08] [ServerMain/INFO]: Loaded 1399 advancements
+[01:54:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:54:09] [Server thread/INFO]: Loading properties
+[01:54:09] [Server thread/INFO]: Default game type: SURVIVAL
+[01:54:09] [Server thread/INFO]: Generating keypair
+[01:54:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:54:09] [Server thread/INFO]: Using epoll channel type
+[01:54:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:54:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:54:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:54:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:54:09] [Server thread/INFO]: Preparing level "world"
+[01:54:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:54:19] [Server thread/INFO]: Time elapsed: 716 ms
+[01:54:19] [Server thread/INFO]: Done (9.895s)! For help, type "help"
+[01:54:49] [Server thread/INFO]: Whiter_YT2[/127.145.221.43:40083] logged in with entity id 62 at (5013.913609686931, 61.53220712039411, -498.5690389335858)
+[01:54:49] [Server thread/INFO]: Whiter_YT2 joined the game
+[01:54:54] [Server thread/INFO]: juank18sv[/127.53.75.47:35349] logged in with entity id 179 at (4962.300000011921, 63.0, -311.3038816016403)
+[01:54:54] [Server thread/INFO]: juank18sv joined the game
+[02:02:57] [Server thread/INFO]: Teleported juank18sv to Whiter_YT2
+[02:07:12] [Server thread/WARN]: Whiter_YT2 moved too quickly! 9.147125478635644,-1.0106500141260284,4.243663232312429
+[02:07:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6438ms or 128 ticks behind
+[02:11:38] [Server thread/INFO]: [Not Secure] <juank18sv> 4963 -50 -167
+[02:20:45] [Server thread/INFO]: juank18sv lost connection: Disconnected
+[02:20:45] [Server thread/INFO]: juank18sv left the game
