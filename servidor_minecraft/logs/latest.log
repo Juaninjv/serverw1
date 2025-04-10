@@ -33,3 +33,9 @@
 [02:18:41] [Server thread/INFO]: Teleported Corpus2020 to juank18sv
 [02:19:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=799, y=61, z=-325} jd{x=799, y=62, z=-325}
 [02:20:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=802, y=61, z=-327} jd{x=802, y=62, z=-327}
+[02:27:52] [Server thread/INFO]: Corpus2020 lost connection: Disconnected
+[02:27:52] [Server thread/INFO]: Corpus2020 left the game
+[02:27:59] [Server thread/INFO]: juank18sv lost connection: Disconnected
+[02:27:59] [Server thread/INFO]: juank18sv left the game
+[02:30:04] [Server thread/INFO]: juank18sv[/127.53.75.47:34143] logged in with entity id 6442 at (810.5887198020114, 62.9375, -296.4582269247487)
+[02:30:04] [Server thread/INFO]: juank18sv joined the game
