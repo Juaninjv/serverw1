@@ -30,3 +30,4 @@
 [21:23:06] [Server thread/INFO]: juank18sv[/127.53.75.47:50085] logged in with entity id 3305 at (899.9951328419264, 60.0, -247.61906245450385)
 [21:23:06] [Server thread/INFO]: juank18sv joined the game
 [21:23:16] [Server thread/INFO]: [Not Secure] <juank18sv> ni lo escuche
+[21:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=895, y=62, z=-255} jd{x=896, y=63, z=-255}
