@@ -22,3 +22,10 @@
 [02:36:53] [Server thread/INFO]: <--[HERE]
 [02:37:38] [Server thread/INFO]: Whiter_YT2[/127.6.250.195:37775] logged in with entity id 60 at (864.9722780907873, 66.0, -306.48553669120616)
 [02:37:38] [Server thread/INFO]: Whiter_YT2 joined the game
+[02:59:10] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[02:59:10] [Server thread/INFO]: Whiter_YT2 left the game
+[02:59:10] [Server thread/WARN]: handleDisconnection() called twice
+[02:59:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:59:36] [Server thread/INFO]: <--[HERE]
+[03:00:10] [Server thread/INFO]: Whiter_YT2[/127.6.250.195:57617] logged in with entity id 3975 at (872.2559487720976, 88.0, -720.8604797603252)
+[03:00:10] [Server thread/INFO]: Whiter_YT2 joined the game
