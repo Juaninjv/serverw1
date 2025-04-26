@@ -1,165 +1,40 @@
-[20:17:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:17:38] [ServerMain/INFO]: Loaded 1290 recipes
-[20:17:39] [ServerMain/INFO]: Loaded 1399 advancements
-[20:17:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:17:40] [Server thread/INFO]: Loading properties
-[20:17:40] [Server thread/INFO]: Default game type: SURVIVAL
-[20:17:40] [Server thread/INFO]: Generating keypair
-[20:17:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:17:41] [Server thread/INFO]: Using epoll channel type
-[20:17:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:17:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:17:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:17:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:17:41] [Server thread/INFO]: Preparing level "world"
-[20:17:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:17:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:17:56] [Worker-Main-1/INFO]: Preparing spawn area: 6%
-[20:17:56] [Server thread/INFO]: Time elapsed: 1259 ms
-[20:17:56] [Server thread/INFO]: Done (15.374s)! For help, type "help"
-[20:18:00] [Server thread/INFO]: Whiter_YT2[/127.239.112.180:60631] logged in with entity id 7 at (779.4620325803268, 84.29440037369834, -277.1690357644209)
-[20:18:01] [Server thread/INFO]: Whiter_YT2 joined the game
-[20:18:48] [Server thread/INFO]: juank18sv[/127.53.75.47:52907] logged in with entity id 600 at (894.699638257121, 71.0, -269.5571527281301)
-[20:18:48] [Server thread/INFO]: juank18sv joined the game
-[20:23:13] [Server thread/INFO]: [Not Secure] <juank18sv> yffffffd
-[20:28:16] [Server thread/INFO]: [Not Secure] <Whiter_YT2> dormite
-[20:32:17] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[20:32:17] [Server thread/INFO]: Whiter_YT2 left the game
-[20:37:42] [Server thread/INFO]: Whiter_YT2[/127.239.112.180:58117] logged in with entity id 5318 at (904.0343296152055, 61.0, -258.3062184633901)
-[20:37:42] [Server thread/INFO]: Whiter_YT2 joined the game
-[20:50:04] [Server thread/INFO]: [Not Secure] <Whiter_YT2> towards
-[20:53:41] [Server thread/INFO]: juank18sv lost connection: Disconnected
-[20:53:41] [Server thread/INFO]: juank18sv left the game
-[20:54:08] [Server thread/INFO]: Lucatielv[/127.53.75.47:59687] logged in with entity id 10503 at (196.48251686276168, 58.0, -34.02978515942817)
-[20:54:08] [Server thread/INFO]: Lucatielv joined the game
-[20:54:09] [Server thread/INFO]: juank18sv[/127.53.75.47:46513] logged in with entity id 10620 at (790.1391632580667, 63.0, -263.6213019258876)
-[20:54:09] [Server thread/INFO]: juank18sv joined the game
-[20:54:31] [Server thread/INFO]: Lucatielv tried to swim in lava
-[20:55:10] [Server thread/INFO]: Lucatielv was shot by Skeleton
-[20:56:12] [Server thread/INFO]: Teleported Lucatielv to juank18sv
-[21:01:24] [Server thread/INFO]: Teleported juank18sv to Whiter_YT2
-[21:01:37] [Server thread/INFO]: Teleported Lucatielv to juank18sv
-[21:01:55] [Server thread/INFO]: Lucatielv has made the advancement [Sweet Dreams]
-[21:08:37] [Server thread/INFO]: [Not Secure] <Whiter_YT2> holaaa
-[21:13:24] [Server thread/INFO]: [Not Secure] <Lucatielv> dsmnfjndmfdjgndfgdsnfjwdndmksnkf
-[21:13:40] [Server thread/INFO]: [Not Secure] <Lucatielv> gfsdffdbç
-[21:15:57] [Server thread/INFO]: [Not Secure] <Lucatielv> wdsfdsmf,sfmsklfmdkgmngkdfnjhhrt4jtuh45uhtruhgjkjdfg
-[21:16:05] [Server thread/INFO]: [Not Secure] <Lucatielv> dfdgdfgdgdsgfdgbbdsvsdf
-[21:17:44] [Server thread/INFO]: Lucatielv fell from a high place
-[21:18:42] [Server thread/INFO]: Lucatielv was blown up by Creeper
-[21:20:14] [Server thread/INFO]: Lucatielv was doomed to fall by Whiter_YT2
-[21:20:41] [Server thread/INFO]: Corpus2020[/127.124.145.126:57055] logged in with entity id 22333 at (823.7255706406904, 63.0, -357.65611715338514)
-[21:20:41] [Server thread/INFO]: Corpus2020 joined the game
-[21:24:00] [Server thread/INFO]: Corpus2020 was shot by Whiter_YT2
-[21:29:00] [Server thread/INFO]: Corpus2020 has made the advancement [Sweet Dreams]
-[21:29:09] [Server thread/INFO]: Lucatielv was slain by Zombie
-[21:30:04] [Server thread/INFO]: [Not Secure] <Lucatielv> dnkjbfbjndf
-[21:30:10] [Server thread/INFO]: [Not Secure] <Lucatielv> dbdbfñjfksflsjd
-[21:30:18] [Server thread/INFO]: [Not Secure] <Lucatielv> gdfgbdsgdjskgbndmsbsgmdnmgdbngfbhfnbh nfnd
-[21:30:22] [Server thread/INFO]: [Not Secure] <Lucatielv> fnsjfnnngnd
-[21:30:25] [Server thread/INFO]: [Not Secure] <Lucatielv> dgnjsdn
-[21:30:28] [Server thread/INFO]: [Not Secure] <Lucatielv> dngsdm
-[21:30:30] [Server thread/INFO]: [Not Secure] <Lucatielv> d sgnnngd
-[21:30:32] [Server thread/INFO]: [Not Secure] <Whiter_YT2> duerman
-[21:30:32] [Server thread/INFO]: [Not Secure] <Lucatielv> dgsdmgkd+
-[21:30:34] [Server thread/INFO]: [Not Secure] <Lucatielv> dmsglmkdmfkgmd
-[21:30:36] [Server thread/INFO]: [Not Secure] <Lucatielv> dsgd,fg m,sg
-[21:30:46] [Server thread/INFO]: [Not Secure] <Lucatielv> xwfskdjfkdgjbdggbdnmfgbmnbdhmgbhdfhgvsdhfvg
-[21:31:23] [Server thread/INFO]: [Not Secure] <Whiter_YT2> duerman
-[21:34:37] [Server thread/INFO]: Lucatielv fell from a high place
-[21:35:43] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[21:36:26] [Server thread/INFO]: Corpus2020 was slain by juank18sv
-[21:39:03] [Server thread/INFO]: Lucatielv fell from a high place
-[21:39:26] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[21:39:44] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[21:40:14] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[21:42:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=778, y=64, z=-278} jd{x=778, y=62, z=-278}
-[21:42:52] [Server thread/INFO]: Corpus2020 fell while climbing
-[21:43:08] [Server thread/INFO]: Corpus2020 was slain by juank18sv
-[21:43:08] [Server thread/INFO]: Lucatielv was burned to a crisp while fighting Corpus2020
-[21:43:38] [Server thread/INFO]: Corpus2020 was slain by juank18sv
-[21:43:54] [Server thread/INFO]: Corpus2020 was slain by juank18sv
-[21:44:01] [Server thread/INFO]: Lucatielv was slain by Whiter_YT2
-[21:45:27] [Server thread/INFO]: Lucatielv was burned to a crisp while fighting Corpus2020
-[21:45:41] [Server thread/INFO]: Lucatielv was slain by Whiter_YT2
-[21:45:50] [Server thread/INFO]: Corpus2020 was burned to a crisp while fighting juank18sv
-[21:45:54] [Server thread/INFO]: Lucatielv was slain by Whiter_YT2
-[21:46:22] [Server thread/INFO]: Corpus2020 was slain by Lucatielv
-[21:46:31] [Server thread/INFO]: Lucatielv was slain by Whiter_YT2
-[21:46:35] [Server thread/INFO]: Corpus2020 was slain by juank18sv
-[21:47:03] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[21:47:38] [Server thread/INFO]: Corpus2020 was burned to a crisp while fighting juank18sv
-[21:47:56] [Server thread/INFO]: Lucatielv was slain by Whiter_YT2
-[21:48:42] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[21:48:55] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[21:49:32] [Server thread/INFO]: [Not Secure] <Whiter_YT2> zzzz
-[21:50:03] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[21:50:22] [Server thread/INFO]: albito29[/127.222.224.80:34007] logged in with entity id 31711 at (-41.5, 68.0, -59.5)
-[21:50:22] [Server thread/INFO]: albito29 joined the game
-[21:50:28] [Server thread/INFO]: Teleported Lucatielv to juank18sv
-[21:50:49] [Server thread/INFO]: albito29 has made the advancement [We Need to Go Deeper]
-[21:50:58] [Server thread/INFO]: [Not Secure] <albito29> mamahuevos
-[21:52:49] [Server thread/INFO]: [Not Secure] <albito29> nonde tan?
-[21:52:55] [Server thread/INFO]: [Not Secure] <juank18sv> segui el camino
-[21:53:17] [Server thread/INFO]: [Not Secure] <Whiter_YT2> wven a la llamada capo
-[21:56:01] [Server thread/INFO]: [Not Secure] <albito29> q camio?
-[21:56:12] [Server thread/INFO]: [Not Secure] <Whiter_YT2> metete a la llamada capo
-[21:56:13] [Server thread/INFO]: [Not Secure] <albito29> camino*
-[21:56:23] [Server thread/INFO]: [Not Secure] <albito29> toi en el valo xd
-[21:56:33] [Server thread/INFO]: [Not Secure] <Whiter_YT2> ok
-[21:56:34] [Server thread/INFO]: [Not Secure] <juank18sv> les falta uno??????????????????????????????????????????????????
-[21:56:38] [Server thread/INFO]: [Not Secure] <juank18sv> =??????????????????????????????
-[21:56:40] [Server thread/INFO]: [Not Secure] <juank18sv> ???????????????????????????????????
-[21:56:42] [Server thread/INFO]: [Not Secure] <juank18sv> ??????????????????????????????????
-[21:57:10] [Server thread/INFO]: [Not Secure] <albito29> ñop
-[21:57:17] [Server thread/INFO]: [Not Secure] <juank18sv> bom
-[21:57:32] [Server thread/INFO]: [Not Secure] <albito29> toi en el nether xd
-[21:58:44] [Server thread/INFO]: [Not Secure] <juank18sv> segui el camino
-[21:59:36] [Server thread/INFO]: [Not Secure] <albito29> perroooooooooooooooo!
-[21:59:41] [Server thread/INFO]: [Not Secure] <albito29> xd
-[22:00:32] [Server thread/INFO]: [Not Secure] <Lucatielv> rsahasdhbfhbhdgvd
-[22:00:37] [Server thread/INFO]: [Not Secure] <Lucatielv> ybsdf
-[22:00:47] [Server thread/INFO]: [Not Secure] <Lucatielv> vcnvvdvç
-[22:01:42] [Server thread/INFO]: juank18sv lost connection: Disconnected
-[22:01:42] [Server thread/INFO]: juank18sv left the game
-[22:02:08] [Server thread/INFO]: albito29 was slain by Hoglin
-[22:03:28] [Server thread/INFO]: [Not Secure] <albito29> a onde?
-[22:03:33] [Server thread/INFO]: juank18sv[/127.53.75.47:43153] logged in with entity id 37681 at (-1.347350914948306, 61.0, -30.964141917299877)
-[22:03:33] [Server thread/INFO]: juank18sv joined the game
-[22:03:57] [Server thread/INFO]: [Not Secure] <Whiter_YT2> para no?
-[22:04:14] [Server thread/INFO]: [Not Secure] <Lucatielv> xckvnvkm
-[22:05:03] [Server thread/INFO]: [Not Secure] <Lucatielv> mbghjghgj
-[22:05:27] [Server thread/INFO]: albito29 fell from a high place
-[22:05:34] [Server thread/INFO]: [Not Secure] <Whiter_YT2> xd
-[22:05:47] [Server thread/INFO]: albito29 was slain by Zombie
-[22:05:58] [Server thread/INFO]: [Not Secure] <Whiter_YT2> dormi
-[22:06:17] [Server thread/INFO]: albito29 lost connection: Disconnected
-[22:06:17] [Server thread/INFO]: albito29 left the game
-[22:10:06] [Server thread/INFO]: [Not Secure] <Whiter_YT2> luciel
-[22:10:17] [Server thread/INFO]: [Not Secure] <Whiter_YT2> dame eso
-[22:10:19] [Server thread/INFO]: Lucatielv was slain by Corpus2020
-[22:11:58] [Server thread/INFO]: Lucatielv fell while climbing
-[22:14:10] [Server thread/INFO]: Lucatielv lost connection: Disconnected
-[22:14:10] [Server thread/INFO]: Lucatielv left the game
-[22:15:39] [Server thread/INFO]: Whiter_YT2 fell from a high place
-[22:19:39] [Server thread/INFO]: Whiter_YT2 fell from a high place
-[22:23:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=34, z=-507} jd{x=816, y=33, z=-509}
-[22:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=814, y=32, z=-502} jd{x=813, y=31, z=-502}
-[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
-[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
-[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
-[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
-[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
-[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
-[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
-[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=809, y=26, z=-517}
-[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=809, y=26, z=-517}
-[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=809, y=26, z=-517}
-[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=810, y=26, z=-516}
-[22:26:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=810, y=26, z=-516}
-[22:34:09] [Server thread/INFO]: [Not Secure] <Corpus2020> w ww
-[22:34:17] [Server thread/INFO]: juank18sv lost connection: Disconnected
-[22:34:17] [Server thread/INFO]: juank18sv left the game
-[22:34:28] [Server thread/INFO]: juank18sv[/127.53.75.47:39475] logged in with entity id 50017 at (780.536208682685, 91.0, -277.594542694242)
-[22:34:28] [Server thread/INFO]: juank18sv joined the game
+[22:57:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:57:07] [ServerMain/INFO]: Loaded 1290 recipes
+[22:57:08] [ServerMain/INFO]: Loaded 1399 advancements
+[22:57:09] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:57:09] [Server thread/INFO]: Loading properties
+[22:57:09] [Server thread/INFO]: Default game type: SURVIVAL
+[22:57:09] [Server thread/INFO]: Generating keypair
+[22:57:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:57:10] [Server thread/INFO]: Using epoll channel type
+[22:57:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:57:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:57:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:57:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:57:10] [Server thread/INFO]: Preparing level "world"
+[22:57:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:57:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:57:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:57:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:57:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:57:24] [Worker-Main-1/INFO]: Preparing spawn area: 38%
+[22:57:24] [Server thread/INFO]: Time elapsed: 2481 ms
+[22:57:24] [Server thread/INFO]: Done (14.231s)! For help, type "help"
+[22:57:26] [Server thread/INFO]: juank18sv[/127.53.75.47:34213] logged in with entity id 72 at (782.400951219708, 124.0, -314.1567535168612)
+[22:57:26] [Server thread/INFO]: juank18sv joined the game
+[22:57:28] [Server thread/INFO]: Corpus2020[/127.124.145.126:46245] logged in with entity id 84 at (920.5, 67.6875, -253.5)
+[22:57:28] [Server thread/INFO]: Corpus2020 joined the game
+[22:57:32] [Server thread/INFO]: Whiter_YT2[/127.239.112.180:51233] logged in with entity id 240 at (861.7307897100582, 68.0, -370.69171885020864)
+[22:57:32] [Server thread/INFO]: Whiter_YT2 joined the game
+[22:57:50] [Server thread/INFO]: albito29[/127.222.224.80:36201] logged in with entity id 494 at (-50.948735139914646, 65.0, -52.03496263992976)
+[22:57:50] [Server thread/INFO]: albito29 joined the game
+[22:57:59] [Server thread/INFO]: [Not Secure] <albito29> chupen
+[22:58:07] [Server thread/INFO]: [Not Secure] <juank18sv> voce chupa
+[22:58:13] [Server thread/INFO]: [Not Secure] <juank18sv> esta
+[22:58:19] [Server thread/INFO]: [Not Secure] <Whiter_YT2> te gusta
+[22:58:50] [Server thread/INFO]: [Not Secure] <Whiter_YT2> duerman
+[22:59:15] [Server thread/INFO]: [Not Secure] <Corpus2020> albito dormi y morite
+[22:59:16] [Server thread/INFO]: [Not Secure] <Whiter_YT2> albito dormi
+[22:59:58] [Server thread/INFO]: albito29 lost connection: Disconnected
+[22:59:58] [Server thread/INFO]: albito29 left the game
+[23:03:14] [Server thread/INFO]: Teleported juank18sv to Whiter_YT2
