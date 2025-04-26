@@ -143,3 +143,18 @@
 [22:14:10] [Server thread/INFO]: Lucatielv lost connection: Disconnected
 [22:14:10] [Server thread/INFO]: Lucatielv left the game
 [22:15:39] [Server thread/INFO]: Whiter_YT2 fell from a high place
+[22:19:39] [Server thread/INFO]: Whiter_YT2 fell from a high place
+[22:23:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=815, y=34, z=-507} jd{x=816, y=33, z=-509}
+[22:23:30] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=814, y=32, z=-502} jd{x=813, y=31, z=-502}
+[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
+[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
+[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
+[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
+[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
+[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
+[22:25:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=810, y=27, z=-514} jd{x=810, y=25, z=-513}
+[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=809, y=26, z=-517}
+[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=809, y=26, z=-517}
+[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=809, y=26, z=-517}
+[22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=810, y=26, z=-516}
+[22:26:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=810, y=26, z=-516}
