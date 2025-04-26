@@ -158,3 +158,8 @@
 [22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=809, y=26, z=-517}
 [22:26:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=810, y=26, z=-516}
 [22:26:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=809, y=27, z=-516} jd{x=810, y=26, z=-516}
+[22:34:09] [Server thread/INFO]: [Not Secure] <Corpus2020> w ww
+[22:34:17] [Server thread/INFO]: juank18sv lost connection: Disconnected
+[22:34:17] [Server thread/INFO]: juank18sv left the game
+[22:34:28] [Server thread/INFO]: juank18sv[/127.53.75.47:39475] logged in with entity id 50017 at (780.536208682685, 91.0, -277.594542694242)
+[22:34:28] [Server thread/INFO]: juank18sv joined the game
