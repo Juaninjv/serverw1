@@ -841,9 +841,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-26 21:30:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
     },
     "done": true
   },
@@ -856,6 +874,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-26 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
     },
     "done": true
   },
@@ -895,9 +919,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-26 21:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
     },
     "done": true
   },
@@ -925,6 +961,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-04-26 21:30:16 +0000"
@@ -940,6 +982,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-26 21:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
     },
     "done": true
   },
@@ -1030,6 +1078,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-26 21:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-26 21:48:39 +0000"
     },
     "done": true
   },
