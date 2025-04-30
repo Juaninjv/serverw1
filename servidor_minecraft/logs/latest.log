@@ -25,3 +25,6 @@
 [19:07:00] [Server thread/INFO]: [Not Secure] <Whiter_YT2> awda
 [19:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
 [19:18:24] [Server thread/INFO]: [Not Secure] <Whiter_YT2> da
+[19:30:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-550, y=65, z=-42} jd{x=-612, y=65, z=-42}
+[19:35:52] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[19:35:52] [Server thread/INFO]: Whiter_YT2 left the game
