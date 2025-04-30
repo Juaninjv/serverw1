@@ -38,3 +38,8 @@
 [23:27:37] [Server thread/INFO]: juank18sv left the game
 [23:27:56] [Server thread/INFO]: juank18sv[/127.53.75.47:52779] logged in with entity id 10625 at (137.57770871756037, 45.22394679907154, -30.941761201873717)
 [23:27:56] [Server thread/INFO]: juank18sv joined the game
+[23:32:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=411, y=92, z=-36} jd{x=410, y=91, z=-36}
+[23:36:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=113, y=56, z=-82} jd{x=526, y=83, z=-95}
+[23:37:12] [Server thread/INFO]: juank18sv lost connection: Disconnected
+[23:37:12] [Server thread/INFO]: juank18sv left the game
+[23:40:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=584, y=63, z=-194} jd{x=570, y=36, z=-248}
