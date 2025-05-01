@@ -41,3 +41,14 @@
 [02:26:33] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
 [02:26:33] [Server thread/INFO]: Whiter_YT2 left the game
 [02:26:34] [Server thread/WARN]: handleDisconnection() called twice
+[02:27:32] [Server thread/INFO]: Whiter_YT2[/127.63.67.230:59551] logged in with entity id 27183 at (794.6624465892152, 63.0, -293.13381100298955)
+[02:27:32] [Server thread/INFO]: Whiter_YT2 joined the game
+[02:35:20] [Server thread/INFO]: albito29 has made the advancement [Monster Hunter]
+[02:35:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=57, z=-15} jd{x=326, y=55, z=-14}
+[02:35:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=57, z=-15} jd{x=326, y=55, z=-14}
+[02:35:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=57, z=-15} jd{x=326, y=55, z=-14}
+[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
+[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=51, z=-5} jd{x=327, y=47, z=-3}
+[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
+[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
+[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
