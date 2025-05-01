@@ -1,62 +1,21 @@
-[01:36:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:36:47] [ServerMain/INFO]: Loaded 1290 recipes
-[01:36:47] [ServerMain/INFO]: Loaded 1399 advancements
-[01:36:48] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:36:48] [Server thread/INFO]: Loading properties
-[01:36:48] [Server thread/INFO]: Default game type: SURVIVAL
-[01:36:48] [Server thread/INFO]: Generating keypair
-[01:36:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:36:49] [Server thread/INFO]: Using epoll channel type
-[01:36:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:36:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:36:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:36:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:36:50] [Server thread/INFO]: Preparing level "world"
-[01:36:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:36:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:36:58] [Worker-Main-1/INFO]: Preparing spawn area: 46%
-[01:36:59] [Server thread/INFO]: Time elapsed: 1216 ms
-[01:36:59] [Server thread/INFO]: Done (8.528s)! For help, type "help"
-[01:37:13] [Server thread/INFO]: Whiter_YT2[/127.63.67.230:36275] logged in with entity id 5 at (568.0903736170872, 53.0, -579.8192183573669)
-[01:37:13] [Server thread/INFO]: Whiter_YT2 joined the game
-[01:37:30] [Server thread/INFO]: albito29[/127.222.224.80:48191] logged in with entity id 180 at (-44.30000001192093, 68.0, -57.830278146142575)
-[01:37:30] [Server thread/INFO]: albito29 joined the game
-[01:37:56] [Server thread/WARN]: UUID of added entity already exists: ckq['Strider'/360, l='ServerLevel[world]', x=800.87, y=31.50, z=-478.56]
-[01:38:13] [Server thread/WARN]: UUID of added entity already exists: cnt['Small Fireball'/409, l='ServerLevel[world]', x=816.82, y=47.41, z=-556.95]
-[01:41:18] [Server thread/INFO]: albito29 has made the advancement [Diamonds!]
-[01:41:38] [Server thread/INFO]: [Not Secure] <Whiter_YT2> anda usa los aldeanos q dan armaddura de diamante
-[01:42:28] [Server thread/INFO]: albito29 has made the advancement [Acquire Hardware]
-[01:43:36] [Server thread/INFO]: albito29 has made the advancement [Cover Me with Diamonds]
-[01:46:28] [Server thread/INFO]: albito29 has made the advancement [Suit Up]
-[01:48:09] [Server thread/INFO]: albito29 has made the advancement [Stone Age]
-[01:52:35] [Server thread/INFO]: [Not Secure] <Whiter_YT2> me fui a la otra sala
-[02:02:15] [Server thread/INFO]: [Not Secure] <albito29> 108 57 -35
-[02:06:31] [Server thread/INFO]: albito29 has made the advancement [Spooky Scary Skeleton]
-[02:10:16] [Server thread/INFO]: albito29 has made the advancement [Sweet Dreams]
-[02:16:03] [Server thread/INFO]: albito29 has made the advancement [Country Lode, Take Me Home]
-[02:22:47] [Server thread/INFO]: albito29 has made the advancement [Into Fire]
-[02:23:36] [Server thread/INFO]: albito29 has made the advancement [Ice Bucket Challenge]
-[02:25:46] [Server thread/INFO]: albito29 has made the advancement [What a Deal!]
-[02:26:33] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[02:26:33] [Server thread/INFO]: Whiter_YT2 left the game
-[02:26:34] [Server thread/WARN]: handleDisconnection() called twice
-[02:27:32] [Server thread/INFO]: Whiter_YT2[/127.63.67.230:59551] logged in with entity id 27183 at (794.6624465892152, 63.0, -293.13381100298955)
-[02:27:32] [Server thread/INFO]: Whiter_YT2 joined the game
-[02:35:20] [Server thread/INFO]: albito29 has made the advancement [Monster Hunter]
-[02:35:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=57, z=-15} jd{x=326, y=55, z=-14}
-[02:35:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=57, z=-15} jd{x=326, y=55, z=-14}
-[02:35:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=57, z=-15} jd{x=326, y=55, z=-14}
-[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
-[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=51, z=-5} jd{x=327, y=47, z=-3}
-[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
-[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
-[02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
-[02:38:06] [Server thread/INFO]: albito29 lost connection: Timed out
-[02:38:06] [Server thread/INFO]: albito29 left the game
-[02:38:09] [Server thread/INFO]: albito29[/127.222.224.80:43959] logged in with entity id 29439 at (392.141227763314, 35.0, 31.670035699387544)
-[02:38:09] [Server thread/INFO]: albito29 joined the game
-[02:38:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=371, y=34, z=42} jd{x=371, y=35, z=41}
-[02:40:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=371, y=36, z=41} jd{x=448, y=39, z=89}
-[02:44:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=491, y=12, z=116} jd{x=463, y=12, z=116}
-[02:45:26] [Server thread/INFO]: albito29 has made the advancement [Hidden in the Depths]
+[23:29:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:29:23] [ServerMain/INFO]: Loaded 1290 recipes
+[23:29:23] [ServerMain/INFO]: Loaded 1399 advancements
+[23:29:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:29:24] [Server thread/INFO]: Loading properties
+[23:29:24] [Server thread/INFO]: Default game type: SURVIVAL
+[23:29:24] [Server thread/INFO]: Generating keypair
+[23:29:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:29:24] [Server thread/INFO]: Using epoll channel type
+[23:29:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:29:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:29:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:29:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:29:24] [Server thread/INFO]: Preparing level "world"
+[23:29:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:29:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:29:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:29:33] [Server thread/INFO]: Time elapsed: 746 ms
+[23:29:33] [Server thread/INFO]: Done (8.963s)! For help, type "help"
+[23:31:05] [Server thread/INFO]: Whiter_YT2[/127.148.187.130:49607] logged in with entity id 75 at (587.7441832536508, 12.0, 116.30000001192093)
+[23:31:05] [Server thread/INFO]: Whiter_YT2 joined the game
