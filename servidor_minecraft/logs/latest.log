@@ -52,3 +52,11 @@
 [02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
 [02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
 [02:36:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=326, y=53, z=-8} jd{x=325, y=52, z=-7}
+[02:38:06] [Server thread/INFO]: albito29 lost connection: Timed out
+[02:38:06] [Server thread/INFO]: albito29 left the game
+[02:38:09] [Server thread/INFO]: albito29[/127.222.224.80:43959] logged in with entity id 29439 at (392.141227763314, 35.0, 31.670035699387544)
+[02:38:09] [Server thread/INFO]: albito29 joined the game
+[02:38:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=371, y=34, z=42} jd{x=371, y=35, z=41}
+[02:40:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=371, y=36, z=41} jd{x=448, y=39, z=89}
+[02:44:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=491, y=12, z=116} jd{x=463, y=12, z=116}
+[02:45:26] [Server thread/INFO]: albito29 has made the advancement [Hidden in the Depths]
