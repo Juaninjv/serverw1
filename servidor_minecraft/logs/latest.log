@@ -22,3 +22,4 @@
 [00:42:21] [Server thread/INFO]: juank18sv lost connection: Disconnected
 [00:42:21] [Server thread/INFO]: juank18sv left the game
 [00:48:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=565, y=59, z=-546} jd{x=565, y=54, z=-536}
+[01:03:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=603, y=52, z=-573} jd{x=606, y=54, z=-614}
