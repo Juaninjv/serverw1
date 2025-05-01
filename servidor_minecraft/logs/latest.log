@@ -1,1 +1,3 @@
 [00:01:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=609, y=59, z=-569} jd{x=609, y=58, z=-568}
+[00:05:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=633, y=66, z=-586} jd{x=634, y=68, z=-583}
+[00:06:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=633, y=66, z=-586} jd{x=603, y=58, z=-572}
