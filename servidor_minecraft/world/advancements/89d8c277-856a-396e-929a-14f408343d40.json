@@ -4131,5 +4131,17 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-05-03 02:46:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-03 02:46:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
