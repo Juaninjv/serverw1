@@ -30,3 +30,8 @@
 [03:29:31] [Server thread/INFO]: Corpus2020 left the game
 [03:40:52] [Server thread/INFO]: Whiter_YT2 has made the advancement [Bring Home the Beacon]
 [03:40:52] [Server thread/INFO]: juank18sv has made the advancement [Bring Home the Beacon]
+[03:45:36] [Server thread/INFO]: Whiter_YT2 has reached the goal [Beaconator]
+[03:45:36] [Server thread/INFO]: juank18sv has reached the goal [Beaconator]
+[03:52:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=862, y=63, z=-304} jd{x=905, y=16, z=-288}
+[04:02:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=896, y=63, z=-297} jd{x=895, y=62, z=-297}
+[04:03:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=890, y=66, z=-292} jd{x=888, y=65, z=-290}
