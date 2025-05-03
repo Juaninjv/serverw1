@@ -23,3 +23,7 @@
 [17:40:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=819, y=64, z=-284} jd{x=819, y=62, z=-284}
 [17:40:28] [Server thread/INFO]: Whiter_YT2[/127.194.106.203:60751] logged in with entity id 416 at (851.8682514611811, 63.0, -304.1558669839573)
 [17:40:28] [Server thread/INFO]: Whiter_YT2 joined the game
+[17:50:41] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[17:50:41] [Server thread/INFO]: Whiter_YT2 left the game
+[17:50:57] [Server thread/INFO]: Whiter_YT2[/127.194.106.203:50689] logged in with entity id 2641 at (906.8206116231474, 63.0, -285.0941933368835)
+[17:50:57] [Server thread/INFO]: Whiter_YT2 joined the game
