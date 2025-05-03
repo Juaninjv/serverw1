@@ -504,6 +504,7 @@
       "minecraft:zombie": "2025-03-22 04:11:01 +0000",
       "minecraft:creeper": "2025-03-24 02:13:13 +0000",
       "minecraft:drowned": "2025-03-22 03:30:05 +0000",
+      "minecraft:wither": "2025-05-03 03:08:08 +0000",
       "minecraft:zombie_villager": "2025-03-22 18:16:30 +0000",
       "minecraft:slime": "2025-03-24 04:06:39 +0000"
     },
@@ -4140,6 +4141,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-05-03 02:46:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-05-03 03:08:13 +0000"
     },
     "done": true
   },
