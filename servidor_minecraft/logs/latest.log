@@ -1,176 +1,19 @@
-[01:58:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:59:03] [ServerMain/INFO]: Loaded 1290 recipes
-[01:59:03] [ServerMain/INFO]: Loaded 1399 advancements
-[01:59:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[01:59:04] [Server thread/INFO]: Loading properties
-[01:59:04] [Server thread/INFO]: Default game type: SURVIVAL
-[01:59:04] [Server thread/INFO]: Generating keypair
-[01:59:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:59:05] [Server thread/INFO]: Using epoll channel type
-[01:59:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:59:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:59:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:59:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:59:05] [Server thread/INFO]: Preparing level "world"
-[01:59:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:59:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:59:15] [Worker-Main-1/INFO]: Preparing spawn area: 28%
-[01:59:15] [Server thread/INFO]: Time elapsed: 1205 ms
-[01:59:15] [Server thread/INFO]: Done (10.428s)! For help, type "help"
-[02:04:05] [Server thread/INFO]: Whiter_YT2[/127.194.106.203:52649] logged in with entity id 90 at (880.0167894751019, 65.0, -292.3974681051315)
-[02:04:05] [Server thread/INFO]: Whiter_YT2 joined the game
-[02:11:16] [Server thread/INFO]: [Not Secure] <Whiter_YT2> 904 63 -298
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -0.8717687332579089,0.0,-10.350521080049475
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -0.9005330142545063,0.0,-10.749390080713283
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -0.9291645362511645,0.0,-11.148277965765828
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -0.9576765751511402,0.0,-11.547182846767782
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -0.9860772531609427,0.0,-11.94610328489398
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.0143777063722155,0.0,-12.345037724431904
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.0425879572671874,0.0,-12.743984765239702
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.0707131999737385,0.0,-13.142943407960729
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.098761935312723,0.0,-13.541912492403299
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.1267418140226937,0.0,-13.94089097439496
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.154659721768212,0.0,-14.339877914180533
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.1825180297739735,0.0,-14.738872730476032
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.2103226980154886,0.0,-15.137874635630396
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.2380790904704781,0.0,-15.536882920757535
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.265792034718629,0.0,-15.935896947859874
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.2934658755817736,0.0,-16.334916142739758
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.321104523399299,0.0,-16.733939988619568
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.348707671370562,0.0,-17.13296828116927
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.376278869481098,0.0,-17.532000575721895
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.4038213127178096,0.0,-17.93103647207704
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.4313378765687048,0.0,-18.330075610054337
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.4588311489729904,0.0,-18.729117665491458
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.4863034590758843,0.0,-19.12816234664251
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.5137569031080602,0.0,-19.527209390935923
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.5411933676768967,0.0,-19.926258562057455
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.5686145507293077,0.0,-20.325309647324048
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.596021980417163,0.0,-20.724362455321398
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.6234170320773273,0.0,-21.123416813776203
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.650800943512877,0.0,-21.522472567642808
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.678174828746478,0.0,-21.921529577379943
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.7055396903986093,0.0,-22.320587717400485
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.7301680652331015,0.0,-22.679740033904636
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.752333601996952,0.0,-23.002977110195616
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.77228258455591,0.0,-23.293890471150917
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.7902366683833861,0.0,-23.555712489074722
-[02:22:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -0.9635341504309736,0.0,-13.839679530807643
-[02:22:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -0.9780769575606882,0.0,-14.051755354089892
-[02:22:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -0.9911654836307662,0.0,-14.242623589987488
-[02:22:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.0029451567817205,0.0,-14.414404997744668
-[02:22:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -1.0135468623367387,0.0,-14.569008260630653
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 0.849532190171999,0.0,-10.36480603142536
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 0.8822076249476822,0.0,-10.763466079108639
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 0.9148830842356119,0.0,-11.162126425856968
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 0.9475585655846999,0.0,-11.560787041763888
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 0.9802340667887393,0.0,-11.959447899913357
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.0129095858623032,0.0,-12.35810897608144
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.0455851210183482,0.0,-12.756770248466182
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.0782606706486604,0.0,-13.155431697446147
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.1109362333058925,0.0,-13.55409330536122
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.1436118076873072,0.0,-13.952755056318438
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.176287392620452,0.0,-14.351416936013266
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.2089629870501994,0.0,-14.750078931572261
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.2416385900268097,0.0,-15.148741031408463
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.2743142006956987,0.0,-15.547403225094513
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.3069898182875477,0.0,-15.946065503245336
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.3396654421101175,0.0,-16.344727857414455
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.3723410715402906,0.0,-16.743390280000312
-[02:29:31] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 1.4050167060173635,0.0,-17.14205276416078
-[02:29:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
-[02:32:22] [Server thread/WARN]: Whiter_YT2 moved too quickly! -5.073748485662804,4.252203340253729,-7.562637492173508
-[02:48:01] [Server thread/INFO]: Whiter_YT2 has made the advancement [Sneak 100]
-[03:29:35] [Server thread/INFO]: Whiter_YT2 has completed the challenge [It Spreads]
-[03:40:44] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[03:40:44] [Server thread/INFO]: Whiter_YT2 left the game
-[03:40:44] [Server thread/WARN]: handleDisconnection() called twice
-[03:41:40] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:39881] logged in with entity id 18473 at (409.2566014554669, 55.024424088213685, -4476.559269263171)
-[03:41:40] [Server thread/INFO]: Whiter_YT2 joined the game
-[03:42:20] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[03:42:20] [Server thread/INFO]: Whiter_YT2 left the game
-[03:44:20] [Server thread/INFO]: Whiter_YT2[/127.194.106.203:34017] logged in with entity id 18701 at (426.69999998807907, 70.0, -4477.300000011921)
-[03:44:20] [Server thread/INFO]: Whiter_YT2 joined the game
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.25422748122628036,0.0,-10.396889072339036
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.26400560080389823,0.0,-10.796769423095611
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.2737837234358267,0.0,-11.196649773891295
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.2835618488167029,0.0,-11.596530124723358
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.29333997667163203,0.0,-11.996410475587254
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.3031181067532316,0.0,-12.396290826480254
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.31289623883878903,0.0,-12.796171177399629
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.32267437272798816,0.0,-13.19605152834265
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.33245250824040795,0.0,-13.59593187930659
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.3422306452137036,0.0,-13.99581223028963
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.35200878350190123,0.0,-14.39569258128995
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.36178692297335147,0.0,-14.795572932305731
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.37156506350982,0.0,-15.195453283335155
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.38134320500478225,0.0,-15.595333634377312
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.39112134736240023,0.0,-15.995213985430382
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.4008994904963856,0.0,-16.395094336494367
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.410677634329204,0.0,-16.794974687567446
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.4204557787908243,0.0,-17.19485503864871
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.43023392381849135,0.0,-17.594735389737252
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.44001206935547543,0.0,-17.99461574083216
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.44979021535095853,0.0,-18.394496091933433
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.45956836175901117,0.0,-18.794376443040164
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.469346508538365,0.0,-19.194256794151443
-[03:49:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:13] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.27378788178577906,0.0,11.196649828137197
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.2640058995345953,0.0,10.796769570138167
-[03:49:15] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 0.2542204665907093,0.0,10.39688939595544
-[03:52:03] [Server thread/INFO]: Whiter_YT2 has made the advancement [The Cutest Predator]
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 1.8614478627399649,0.0,-10.23205505740043
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 1.9330420113083449,0.0,-10.625595636531216
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.0046361598767817,0.0,-11.019136215662002
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.076230308445247,0.0,-11.412676794792787
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.147824457013712,0.0,-11.806217373923573
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.219418605582206,0.0,-12.199757953054359
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.291012754150728,0.0,-12.593298532185145
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.3626069027192784,0.0,-12.98683911131593
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.434201051287829,0.0,-13.380379690446716
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.505795199856408,0.0,-13.773920269577502
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.577389348424987,0.0,-14.167460848708288
-[04:00:25] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 2.648983496993594,0.0,-14.561001427839074
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -4.589119530473255,0.0,-9.31843622148881
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -4.761474378868769,0.0,-9.67929309887586
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -4.934341442255146,0.0,-10.039911440886499
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -5.108845271519812,0.0,-10.399708571649171
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -5.286466112215834,0.0,-10.75783315141598
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -5.449148382730925,0.0,-11.084271733341666
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -5.598673227609396,0.0,-11.381980895395827
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -5.736665761118076,0.0,-11.653566378448886
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -5.890758350169136,0.0,-11.924564550723517
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -6.061830736304074,0.0,-12.191935200971784
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -6.250504446710494,0.0,-12.452451317245504
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -6.4567679849065485,0.0,-12.703374012246059
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -6.680148900423774,0.0,-12.942448683483235
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -6.919852141030958,0.0,-13.167880949116807
-[04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -7.174870115606041,0.0,-13.378298834086308
-[04:39:43] [Server thread/INFO]: Villager cmk['Villager'/40073, l='ServerLevel[world]', x=149.37, y=69.50, z=-15513.28] died, message: 'Villager suffocated in a wall'
-[04:39:45] [Server thread/INFO]: Villager cmk['Villager'/40101, l='ServerLevel[world]', x=135.63, y=72.00, z=-15521.72] died, message: 'Villager suffocated in a wall'
-[04:40:55] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[04:40:55] [Server thread/INFO]: Whiter_YT2 left the game
+[18:28:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:28:41] [ServerMain/INFO]: Loaded 1290 recipes
+[18:28:41] [ServerMain/INFO]: Loaded 1399 advancements
+[18:28:42] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:28:42] [Server thread/INFO]: Loading properties
+[18:28:42] [Server thread/INFO]: Default game type: SURVIVAL
+[18:28:42] [Server thread/INFO]: Generating keypair
+[18:28:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:28:42] [Server thread/INFO]: Using epoll channel type
+[18:28:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:28:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:28:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:28:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:28:42] [Server thread/INFO]: Preparing level "world"
+[18:28:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:28:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:28:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:28:49] [Server thread/INFO]: Time elapsed: 847 ms
+[18:28:49] [Server thread/INFO]: Done (7.051s)! For help, type "help"
