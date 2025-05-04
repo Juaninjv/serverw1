@@ -9,9 +9,11 @@
     "criteria": {
       "minecraft:cold_ocean": "2025-03-31 18:11:58 +0000",
       "minecraft:snowy_slopes": "2025-04-05 03:45:01 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-05-04 04:23:53 +0000",
       "minecraft:forest": "2025-03-22 03:27:19 +0000",
       "minecraft:taiga": "2025-04-04 18:13:22 +0000",
       "minecraft:deep_ocean": "2025-03-22 03:31:56 +0000",
+      "minecraft:lush_caves": "2025-05-04 03:51:34 +0000",
       "minecraft:deep_cold_ocean": "2025-03-31 18:08:28 +0000",
       "minecraft:ice_spikes": "2025-04-06 19:15:27 +0000",
       "minecraft:frozen_ocean": "2025-04-05 05:00:33 +0000",
@@ -24,6 +26,7 @@
       "minecraft:windswept_hills": "2025-03-24 03:50:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-04 18:11:43 +0000",
       "minecraft:bamboo_jungle": "2025-04-02 03:26:22 +0000",
+      "minecraft:windswept_savanna": "2025-05-04 03:59:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 05:20:45 +0000",
       "minecraft:flower_forest": "2025-03-22 04:15:50 +0000",
       "minecraft:beach": "2025-03-22 03:22:55 +0000",
@@ -4191,6 +4194,12 @@
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-05-04 03:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-05-04 03:52:03 +0000"
     },
     "done": true
   },
