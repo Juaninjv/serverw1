@@ -170,3 +170,7 @@
 [04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -6.680148900423774,0.0,-12.942448683483235
 [04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -6.919852141030958,0.0,-13.167880949116807
 [04:18:11] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -7.174870115606041,0.0,-13.378298834086308
+[04:39:43] [Server thread/INFO]: Villager cmk['Villager'/40073, l='ServerLevel[world]', x=149.37, y=69.50, z=-15513.28] died, message: 'Villager suffocated in a wall'
+[04:39:45] [Server thread/INFO]: Villager cmk['Villager'/40101, l='ServerLevel[world]', x=135.63, y=72.00, z=-15521.72] died, message: 'Villager suffocated in a wall'
+[04:40:55] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[04:40:55] [Server thread/INFO]: Whiter_YT2 left the game
