@@ -17,6 +17,7 @@
       "minecraft:deep_cold_ocean": "2025-03-31 18:08:28 +0000",
       "minecraft:ice_spikes": "2025-04-06 19:15:27 +0000",
       "minecraft:frozen_ocean": "2025-04-05 05:00:33 +0000",
+      "minecraft:desert": "2025-05-04 20:10:10 +0000",
       "minecraft:frozen_river": "2025-04-06 19:15:35 +0000",
       "minecraft:deep_frozen_ocean": "2025-03-31 18:16:24 +0000",
       "minecraft:ocean": "2025-03-22 03:31:34 +0000",
@@ -27,8 +28,10 @@
       "minecraft:old_growth_spruce_taiga": "2025-04-04 18:11:43 +0000",
       "minecraft:snowy_beach": "2025-05-04 04:34:02 +0000",
       "minecraft:bamboo_jungle": "2025-04-02 03:26:22 +0000",
+      "minecraft:wooded_badlands": "2025-05-04 20:07:01 +0000",
       "minecraft:windswept_savanna": "2025-05-04 03:59:14 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-22 05:20:45 +0000",
+      "minecraft:badlands": "2025-05-04 20:10:56 +0000",
       "minecraft:flower_forest": "2025-03-22 04:15:50 +0000",
       "minecraft:beach": "2025-03-22 03:22:55 +0000",
       "minecraft:dark_forest": "2025-03-22 05:47:30 +0000",
@@ -4203,6 +4206,12 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-05-04 03:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-04 20:10:24 +0000"
     },
     "done": true
   },
