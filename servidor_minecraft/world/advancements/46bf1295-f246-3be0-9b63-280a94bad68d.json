@@ -258,6 +258,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "mutton": "2025-05-06 18:28:04 +0000",
       "apple": "2025-04-09 22:26:36 +0000",
       "golden_apple": "2025-05-03 03:05:05 +0000",
       "cooked_beef": "2025-04-09 21:54:58 +0000",
