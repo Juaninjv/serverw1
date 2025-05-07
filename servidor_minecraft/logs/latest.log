@@ -34,3 +34,14 @@
 [19:02:47] [Server thread/INFO]: Whiter_YT2 joined the game
 [19:26:16] [Server thread/INFO]: [Not Secure] <Whiter_YT2> awda
 [19:30:28] [Server thread/WARN]: Whiter_YT2 moved too quickly! -1.2244145697262638,3.5,9.454534455026675
+[19:34:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=955, y=64, z=-218} jd{x=954, y=62, z=-216}
+[19:34:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=955, y=64, z=-218} jd{x=954, y=62, z=-216}
+[19:35:30] [Server thread/WARN]: Whiter_YT2 moved too quickly! 6.5116160931963805,0.7531999805212024,-7.841298032787847
+[19:35:35] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[19:35:35] [Server thread/INFO]: Whiter_YT2 left the game
+[19:35:35] [Server thread/WARN]: handleDisconnection() called twice
+[19:35:46] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:59877] logged in with entity id 18476 at (928.9500696003809, 70.41999998688698, -193.89198291951192)
+[19:35:46] [Server thread/INFO]: Whiter_YT2 joined the game
+[19:36:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=951, y=64, z=-184} jd{x=950, y=62, z=-182}
+[19:37:43] [Server thread/WARN]: Whiter_YT2 moved too quickly! -9.865018044144335,1.6906999805212024,1.1171541798412647
+[19:38:46] [Server thread/WARN]: Whiter_YT2 moved too quickly! 0.345109391344522,0.0,10.049489449225831
