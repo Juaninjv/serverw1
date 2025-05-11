@@ -1,55 +1,45 @@
-[18:51:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:51:32] [ServerMain/INFO]: Loaded 1290 recipes
-[18:51:32] [ServerMain/INFO]: Loaded 1399 advancements
-[18:51:33] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[18:51:33] [Server thread/INFO]: Loading properties
-[18:51:33] [Server thread/INFO]: Default game type: SURVIVAL
-[18:51:33] [Server thread/INFO]: Generating keypair
-[18:51:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:51:34] [Server thread/INFO]: Using epoll channel type
-[18:51:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:51:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:51:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:51:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:51:34] [Server thread/INFO]: Preparing level "world"
-[18:51:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[18:51:49] [Server thread/INFO]: Time elapsed: 1422 ms
-[18:51:49] [Server thread/INFO]: Done (15.463s)! For help, type "help"
-[18:53:38] [Server thread/INFO]: Juank18sv[/127.142.255.113:39711] logged in with entity id 90 at (-23.5, 65.0, -76.5)
-[18:53:38] [Server thread/INFO]: Juank18sv joined the game
-[18:54:01] [Server thread/INFO]: Juank18sv lost connection: Disconnected
-[18:54:01] [Server thread/INFO]: Juank18sv left the game
-[18:56:18] [Server thread/INFO]: Juan18sv[/127.142.255.113:34495] logged in with entity id 153 at (-37.5, 63.0, -66.5)
-[18:56:18] [Server thread/INFO]: Juan18sv joined the game
-[18:56:34] [Server thread/INFO]: Juan18sv lost connection: Disconnected
-[18:56:34] [Server thread/INFO]: Juan18sv left the game
-[19:00:01] [Server thread/INFO]: Juank18SV[/127.142.255.113:38265] logged in with entity id 190 at (-34.5, 67.0, -60.5)
-[19:00:01] [Server thread/INFO]: Juank18SV joined the game
-[19:00:22] [Server thread/INFO]: Juank18SV lost connection: Disconnected
-[19:00:22] [Server thread/INFO]: Juank18SV left the game
-[19:02:47] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:59845] logged in with entity id 259 at (825.1461331003723, 63.796735600668704, -354.21226941359265)
-[19:02:47] [Server thread/INFO]: Whiter_YT2 joined the game
-[19:26:16] [Server thread/INFO]: [Not Secure] <Whiter_YT2> awda
-[19:30:28] [Server thread/WARN]: Whiter_YT2 moved too quickly! -1.2244145697262638,3.5,9.454534455026675
-[19:34:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=955, y=64, z=-218} jd{x=954, y=62, z=-216}
-[19:34:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=955, y=64, z=-218} jd{x=954, y=62, z=-216}
-[19:35:30] [Server thread/WARN]: Whiter_YT2 moved too quickly! 6.5116160931963805,0.7531999805212024,-7.841298032787847
-[19:35:35] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[19:35:35] [Server thread/INFO]: Whiter_YT2 left the game
-[19:35:35] [Server thread/WARN]: handleDisconnection() called twice
-[19:35:46] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:59877] logged in with entity id 18476 at (928.9500696003809, 70.41999998688698, -193.89198291951192)
-[19:35:46] [Server thread/INFO]: Whiter_YT2 joined the game
-[19:36:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=951, y=64, z=-184} jd{x=950, y=62, z=-182}
-[19:37:43] [Server thread/WARN]: Whiter_YT2 moved too quickly! -9.865018044144335,1.6906999805212024,1.1171541798412647
-[19:38:46] [Server thread/WARN]: Whiter_YT2 moved too quickly! 0.345109391344522,0.0,10.049489449225831
-[19:45:28] [Server thread/WARN]: Whiter_YT2 moved too quickly! -3.7929981193789217,0.9695307411816145,-9.37960265747094
-[19:51:00] [Server thread/INFO]: [Not Secure] <Whiter_YT2> awd
-[20:00:34] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[20:00:34] [Server thread/INFO]: Whiter_YT2 left the game
-[20:01:13] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:58953] logged in with entity id 32486 at (894.9550907568317, 54.0, -233.87494180016304)
-[20:01:13] [Server thread/INFO]: Whiter_YT2 joined the game
-[20:04:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=896, y=54, z=-234} jd{x=896, y=54, z=-232}
-[20:10:34] [Server thread/WARN]: Whiter_YT2 moved too quickly! -2.0897712481147437,1.5800000131130219,-9.782662215921164
+[19:58:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:58:44] [ServerMain/INFO]: Loaded 1290 recipes
+[19:58:44] [ServerMain/INFO]: Loaded 1399 advancements
+[19:58:46] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[19:58:46] [Server thread/INFO]: Loading properties
+[19:58:46] [Server thread/INFO]: Default game type: SURVIVAL
+[19:58:46] [Server thread/INFO]: Generating keypair
+[19:58:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:58:46] [Server thread/INFO]: Using epoll channel type
+[19:58:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:58:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:58:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:58:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:58:46] [Server thread/INFO]: Preparing level "world"
+[19:58:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:58:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:58:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:58:54] [Server thread/INFO]: Time elapsed: 829 ms
+[19:58:54] [Server thread/INFO]: Done (8.051s)! For help, type "help"
+[19:59:31] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:60359] logged in with entity id 76 at (437.93225280219787, 57.33058745759006, -289.8023349530354)
+[19:59:31] [Server thread/INFO]: Whiter_YT2 joined the game
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -2.0508952597800203,0.0,-10.159935099466082
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -2.0071086917574235,0.0,-10.535892704368422
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -1.9474830891015245,0.0,-10.90876895582619
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -1.8724298652353468,0.0,-11.278157869733548
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -1.782461855364204,0.0,-11.643733984341026
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -1.6781583042571242,0.0,-12.00524250125224
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -1.56014715372595,0.0,-12.362496223773888
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -1.4290897290686644,0.0,-12.715371128775615
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -1.285661661368522,0.0,-13.063796070722134
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -1.1305425385700687,0.0,-13.407746877376923
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.9644042445152081,0.0,-13.747237547201365
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.7879124595103804,0.0,-14.082321711020313
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! -0.6017112433056013,0.0,-14.413078027493157
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 4.802074468530066,0.0,-8.886028912118661
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 5.073947565972162,0.0,-9.169324571976205
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 5.348700194989306,0.0,-9.450672179648109
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 5.626102501982814,0.0,-9.730200174352746
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 5.905942440565866,0.0,-10.008029813824777
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 6.188021511661134,0.0,-10.284278814954064
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 6.472158467713825,0.0,-10.559055946708668
+[20:01:00] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 6.758185099045022,0.0,-10.832464843692293
+[20:01:01] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 4.707606650306275,0.0,-8.943171566572516
+[20:01:01] [Server thread/WARN]: Oak Boat (vehicle of Whiter_YT2) moved too quickly! 4.892329570495292,0.0,-9.280129989180438
+[20:04:40] [Server thread/WARN]: Whiter_YT2 moved too quickly! -10.20085308071566,-0.22768848754498805,-1.59061907940918
