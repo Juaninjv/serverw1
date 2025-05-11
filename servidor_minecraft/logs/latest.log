@@ -114,3 +114,8 @@
 [21:08:39] [Server thread/WARN]: handleDisconnection() called twice
 [21:09:09] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:49619] logged in with entity id 2082 at (617.9249801336725, 57.155250133554176, -298.73112467112213)
 [21:09:09] [Server thread/INFO]: Whiter_YT2 joined the game
+[21:09:49] [Server thread/WARN]: Whiter_YT2 moved too quickly! -9.987548069216132,0.4959870982234804,2.374809885471734
+[21:14:03] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[21:14:03] [Server thread/INFO]: Whiter_YT2 left the game
+[21:16:01] [Server thread/INFO]: Whiter_YT2[/127.51.157.37:35155] logged in with entity id 3327 at (609.2663726746448, 65.0, -239.23227392765202)
+[21:16:01] [Server thread/INFO]: Whiter_YT2 joined the game

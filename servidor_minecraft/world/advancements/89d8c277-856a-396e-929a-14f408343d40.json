@@ -2840,7 +2840,8 @@
     "criteria": {
       "minecraft:cow": "2025-03-26 20:43:32 +0000",
       "minecraft:chicken": "2025-03-26 20:43:10 +0000",
-      "minecraft:armadillo": "2025-04-09 20:52:55 +0000"
+      "minecraft:armadillo": "2025-04-09 20:52:55 +0000",
+      "minecraft:turtle": "2025-05-11 21:13:51 +0000"
     },
     "done": false
   },
