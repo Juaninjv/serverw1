@@ -1,122 +1,24 @@
-[20:59:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:59:39] [ServerMain/INFO]: Loaded 1290 recipes
-[20:59:39] [ServerMain/INFO]: Loaded 1399 advancements
-[20:59:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[20:59:40] [Server thread/INFO]: Loading properties
-[20:59:40] [Server thread/INFO]: Default game type: SURVIVAL
-[20:59:40] [Server thread/INFO]: Generating keypair
-[20:59:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:59:40] [Server thread/INFO]: Using epoll channel type
-[20:59:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:59:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:59:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:59:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:59:41] [Server thread/INFO]: Preparing level "world"
-[20:59:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:59:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:59:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[20:59:50] [Worker-Main-1/INFO]: Preparing spawn area: 48%
-[20:59:50] [Server thread/INFO]: Time elapsed: 1177 ms
-[20:59:50] [Server thread/INFO]: Done (9.925s)! For help, type "help"
-[21:00:53] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:48209] logged in with entity id 76 at (432.63601274548427, 68.0, -293.6813826954038)
-[21:00:53] [Server thread/INFO]: Whiter_YT2 joined the game
-[21:01:48] [Server thread/WARN]: Whiter_YT2 moved too quickly! 10.147818269506274,0.0,-0.024664270279686207
-[21:03:09] [Server thread/WARN]: Whiter_YT2 moved too quickly! 10.060352998249755,0.25799910351528155,1.0079245768781675
-[21:05:02] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -8.908700097637848,-3.949431004457438E-9,5.168091161624034
-[21:05:02] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -9.236059817895807,-3.97614030589466E-9,5.396182448598893
-[21:05:02] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -9.562880258896143,-3.999964803824696E-9,5.6252000669200015
-[21:05:02] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -9.889201691663175,-4.0196681538873236E-9,5.855069901848765
-[21:05:02] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -10.215472459181228,-4.034667711039219E-9,6.085157201093637
-[21:05:02] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -10.542438707426186,-4.044906631861522E-9,6.3143628232853075
-[21:05:53] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 10.35127690339209,0.0,-1.0054857288972698
-[21:05:53] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 10.74940294069745,0.0,-1.0441582353923309
-[21:05:53] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.147455444553657,0.0,-1.0835248093317773
-[21:05:53] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.545269186783685,0.0,-1.1248277372951634
-[21:05:53] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.94267469353872,0.0,-1.1690541178536478
-[21:05:53] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 12.339509268316533,0.0,-1.2169658958944751
-[21:05:53] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 12.735622699373835,0.0,-1.2691384195603064
-[21:05:53] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 13.130880891380798,0.0,-1.325991353804966
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.759559168134388,0.0,5.974264031673556
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.759559168134388,0.0,5.974264031673556
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.759559168134388,0.0,5.974264031673556
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.759559168134388,0.0,5.974264031673556
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.759559168134388,0.0,5.974264031673556
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.759559168134388,0.0,5.974264031673556
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.759559168134388,0.0,5.974264031673556
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.759559168134388,0.0,5.974264031673556
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -26.362078906339434,0.0,5.934523348508321
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -25.96438711167025,0.0,5.896958748157431
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -25.566475008437124,0.0,5.862234135402559
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -25.168354300996953,0.0,5.830863101417151
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -24.770050089155802,0.0,5.803219732710659
-[21:05:54] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -24.371595486683646,0.0,5.779575359945568
-[21:05:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -23.97302764969561,0.0,5.760108735684867
-[21:05:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -23.574384991957118,0.0,5.744922933181954
-[21:05:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -23.17570534175968,0.0,5.734060592253172
-[21:05:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -22.777024238406284,0.0,5.727510009189075
-[21:05:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -22.37837427449108,0.0,5.725218281062155
-[21:05:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -21.979784567281172,0.0,5.727099309730647
-[21:05:55] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -21.581280946061838,0.0,5.733044815016285
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 10.134081352536555,0.0,-1.9491335101620848
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 10.524391591203084,0.0,-1.9385384679915774
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 10.91185328966867,0.0,-1.9119527459812389
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.295869130926917,0.0,-1.8692170941018844
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.675916103021905,0.0,-1.8104018029273448
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-1.735758011537996
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-1.6451062994052563
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-1.5379813384797671
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-1.4137548455536262
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-1.271765584815796
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-1.1114360907521927
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.9327322248285554
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.7718987497578951
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.6271486260288839
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.49687351812389124
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.37962592411537344
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.2741030923031076
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.17913254618792962
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.09365905694852472
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,-0.0167329186709253
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,0.0525006039448499
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,0.11481077264841133
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,0.17088992299602523
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,0.22136115697185232
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.89430144576886,0.0,0.26678526634674427
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.893922628245264,0.0,0.31265259281639146
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.892950137557705,0.0,0.3588931390287371
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.891131906418536,0.0,0.40541990159783836
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.8881906022375,0.0,0.4521207090016901
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.883836882022933,0.0,0.4988511895460874
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.877781191931376,0.0,0.5454287722204185
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.86974700172459,0.0,0.5916290839892326
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.86251623073008,0.0,0.6332093634796365
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.85600853700737,0.0,0.6706316140296735
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.850151612812056,0.0,0.7043116386324755
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.844880381175926,0.0,0.7346236599720442
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.840136272829113,0.0,0.7619044784549374
-[21:06:04] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! 11.835866575430032,0.0,0.7864572144391104
-[21:06:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=786, y=61, z=-311} jd{x=786, y=62, z=-311}
-[21:06:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=786, y=61, z=-311} jd{x=786, y=62, z=-311}
-[21:06:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=786, y=61, z=-311} jd{x=786, y=62, z=-311}
-[21:07:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=784, y=61, z=-308} jd{x=784, y=62, z=-308}
-[21:07:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=784, y=61, z=-308} jd{x=784, y=62, z=-308}
-[21:07:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=785, y=59, z=-317} jd{x=785, y=60, z=-317}
-[21:07:46] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -10.089115670176056,0.0,-0.36045289713956663
-[21:07:46] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -10.477441047443449,0.0,-0.431203556491198
-[21:07:46] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -10.865872638483097,0.0,-0.5040318996368001
-[21:07:46] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -11.254386619486468,0.0,-0.5787861464666548
-[21:07:46] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -11.64296235741449,0.0,-0.6553259463123027
-[21:07:46] [Server thread/WARN]: Spruce Boat (vehicle of Whiter_YT2) moved too quickly! -12.031582996165866,0.0,-0.7335175059864696
-[21:07:57] [Server thread/WARN]: Whiter_YT2 moved too quickly! 3.821331416608473,-0.49090000152587976,9.66516758202124
-[21:08:30] [Server thread/INFO]: Whiter_YT2 was impaled by Drowned
-[21:08:39] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
-[21:08:39] [Server thread/INFO]: Whiter_YT2 left the game
-[21:08:39] [Server thread/WARN]: handleDisconnection() called twice
-[21:09:09] [Server thread/INFO]: Whiter_YT2[/127.142.255.113:49619] logged in with entity id 2082 at (617.9249801336725, 57.155250133554176, -298.73112467112213)
-[21:09:09] [Server thread/INFO]: Whiter_YT2 joined the game
-[21:09:49] [Server thread/WARN]: Whiter_YT2 moved too quickly! -9.987548069216132,0.4959870982234804,2.374809885471734
-[21:14:03] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
-[21:14:03] [Server thread/INFO]: Whiter_YT2 left the game
-[21:16:01] [Server thread/INFO]: Whiter_YT2[/127.51.157.37:35155] logged in with entity id 3327 at (609.2663726746448, 65.0, -239.23227392765202)
-[21:16:01] [Server thread/INFO]: Whiter_YT2 joined the game
-[21:25:28] [Server thread/INFO]: Whiter_YT2 fell from a high place
+[21:53:08] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:53:14] [ServerMain/INFO]: Loaded 1290 recipes
+[21:53:14] [ServerMain/INFO]: Loaded 1399 advancements
+[21:53:15] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:53:15] [Server thread/INFO]: Loading properties
+[21:53:15] [Server thread/INFO]: Default game type: SURVIVAL
+[21:53:15] [Server thread/INFO]: Generating keypair
+[21:53:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:53:16] [Server thread/INFO]: Using epoll channel type
+[21:53:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:53:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:53:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:53:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:53:16] [Server thread/INFO]: Preparing level "world"
+[21:53:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:53:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:53:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:53:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:53:30] [Server thread/INFO]: Time elapsed: 1640 ms
+[21:53:30] [Server thread/INFO]: Done (13.953s)! For help, type "help"
+[21:53:34] [Server thread/INFO]: Whiter_YT2[/127.51.157.37:58923] logged in with entity id 76 at (431.15044063626453, 63.0, -290.29137801227455)
+[21:53:34] [Server thread/INFO]: Whiter_YT2 joined the game
+[21:54:30] [Server thread/WARN]: UUID of added entity already exists: cfq['Iron Golem'/535, l='ServerLevel[world]', x=915.13, y=67.00, z=-221.95]
+[21:54:36] [Server thread/WARN]: UUID of added entity already exists: cfv['Pig'/588, l='ServerLevel[world]', x=967.18, y=64.00, z=-395.18]
