@@ -4236,5 +4236,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-05-11 20:04:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
