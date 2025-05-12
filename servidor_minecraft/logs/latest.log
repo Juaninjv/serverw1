@@ -26,3 +26,6 @@
 [23:17:34] [Server thread/INFO]: Whiter_YT2 joined the game
 [23:19:38] [Server thread/INFO]: Whiter_YT2 was slain by Piglin
 [23:27:58] [Server thread/INFO]: Whiter_YT2 has made the advancement [Surge Protector]
+[23:43:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=309, y=57, z=-37} jd{x=299, y=59, z=-39}
+[23:43:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=309, y=57, z=-37} jd{x=299, y=59, z=-39}
+[23:43:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=309, y=57, z=-37} jd{x=299, y=59, z=-39}
