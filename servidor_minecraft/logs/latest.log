@@ -27,3 +27,8 @@
 [01:26:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=10071, y=69, z=-170} jd{x=10071, y=68, z=-170}
 [01:50:21] [Server thread/INFO]: Villager cmk['Librarian'/2428, l='ServerLevel[world]', x=10322.54, y=111.00, z=-160.46] died, message: 'Librarian froze to death'
 [01:57:59] [Server thread/INFO]: Villager cmk['Librarian'/2459, l='ServerLevel[world]', x=10343.70, y=108.28, z=-175.50] died, message: 'Librarian froze to death'
+[02:08:11] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[02:08:11] [Server thread/INFO]: Whiter_YT2 left the game
+[02:08:11] [Server thread/WARN]: handleDisconnection() called twice
+[02:10:08] [Server thread/INFO]: Whiter_YT2[/127.75.39.172:49267] logged in with entity id 6573 at (10339.003216503643, -34.0, -105.28637214232238)
+[02:10:08] [Server thread/INFO]: Whiter_YT2 joined the game
