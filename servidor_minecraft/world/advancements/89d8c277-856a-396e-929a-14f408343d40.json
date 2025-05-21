@@ -4271,5 +4271,11 @@
     },
     "done": true
   },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-05-21 20:32:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
