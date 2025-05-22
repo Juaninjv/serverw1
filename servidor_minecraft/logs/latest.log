@@ -28,3 +28,8 @@
 [21:27:10] [Server thread/INFO]: Whiter_YT2[/127.215.170.31:35167] logged in with entity id 2278 at (1177.4618639718503, 57.0, -49.30000001192093)
 [21:27:10] [Server thread/INFO]: Whiter_YT2 joined the game
 [21:30:44] [Server thread/INFO]: Whiter_YT2 fell from a high place
+[22:21:14] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[22:21:14] [Server thread/INFO]: Whiter_YT2 left the game
+[22:21:14] [Server thread/WARN]: handleDisconnection() called twice
+[22:22:10] [Server thread/INFO]: Whiter_YT2[/127.215.170.31:59171] logged in with entity id 11230 at (430.04978508263235, 64.0, -292.2698924425281)
+[22:22:10] [Server thread/INFO]: Whiter_YT2 joined the game
