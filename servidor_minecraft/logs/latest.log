@@ -25,3 +25,6 @@
 [00:53:54] [Server thread/INFO]: Whiter_YT2 left the game
 [00:57:43] [Server thread/INFO]: Whiter_YT2[/127.73.74.62:42279] logged in with entity id 797 at (900.5621838595439, 62.0, -248.4659059799568)
 [00:57:43] [Server thread/INFO]: Whiter_YT2 joined the game
+[02:36:05] [Server thread/INFO]: Whiter_YT2 lost connection: Timed out
+[02:36:05] [Server thread/INFO]: Whiter_YT2 left the game
+[02:36:05] [Server thread/WARN]: handleDisconnection() called twice
