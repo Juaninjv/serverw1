@@ -31,3 +31,5 @@
 [22:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=881, y=62, z=-342} jd{x=884, y=66, z=-341}
 [23:09:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=874, y=67, z=-343} jd{x=874, y=67, z=-344}
 [23:11:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=878, y=67, z=-344} jd{x=879, y=68, z=-345}
+[23:25:38] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[23:25:38] [Server thread/INFO]: Whiter_YT2 left the game
