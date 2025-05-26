@@ -21,3 +21,6 @@
 [19:19:35] [Server thread/INFO]: Whiter_YT2 joined the game
 [19:39:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=909, y=61, z=-249} jd{x=908, y=61, z=-249}
 [19:39:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=910, y=61, z=-249} jd{x=908, y=61, z=-249}
+[20:17:40] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[20:17:40] [Server thread/INFO]: Whiter_YT2 left the game
+[20:17:40] [Server thread/WARN]: handleDisconnection() called twice
