@@ -27,3 +27,5 @@
 [20:18:12] [Server thread/INFO]: Whiter_YT2[/127.244.95.154:35229] logged in with entity id 29397 at (903.6475895611334, 60.0, -253.5179113149348)
 [20:18:12] [Server thread/INFO]: Whiter_YT2 joined the game
 [22:43:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=873, y=66, z=-346} jd{x=882, y=68, z=-345}
+[22:55:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=886, y=63, z=-342} jd{x=883, y=68, z=-344}
+[22:58:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=881, y=62, z=-342} jd{x=884, y=66, z=-341}
