@@ -28,3 +28,7 @@
 [01:41:53] [Server thread/INFO]: Villager cmk['Librarian'/901, l='ServerLevel[world]', x=926.31, y=67.05, z=-206.52] died, message: 'Librarian tried to swim in lava'
 [01:43:31] [Server thread/INFO]: Whiter_YT2 has made the advancement [Best Friends Forever]
 [01:46:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=886, y=63, z=-263} jd{x=895, y=63, z=-263}
+[02:35:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3634ms or 72 ticks behind
+[02:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18323ms or 366 ticks behind
+[02:38:35] [Server thread/INFO]: Whiter_YT2 lost connection: Disconnected
+[02:38:35] [Server thread/INFO]: Whiter_YT2 left the game
