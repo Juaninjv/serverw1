@@ -383,7 +383,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-06-20 00:05:48 +0000",
-      "zombie": "2025-06-20 00:04:57 +0000"
+      "zombie": "2025-06-20 00:04:57 +0000",
+      "witch": "2025-06-20 00:25:01 +0000"
     },
     "done": false
   },
@@ -457,6 +458,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-19 23:58:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-06-20 00:24:03 +0000"
     },
     "done": true
   },
