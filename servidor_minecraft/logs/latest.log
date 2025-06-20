@@ -1,3 +1,25 @@
 [00:01:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was blown up by Creeper
 [00:04:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Zombie
 [00:04:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Monster Hunter]
+[00:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Diamonds!]
+[00:07:01] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[00:07:01] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0
+[00:07:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:07:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:33037] logged in with entity id 465359 at (246.5, 71.0, 201.5)
+[00:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
+[00:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii burned to death
+[00:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <El_Macii> chau diamantes
+[00:08:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <juank18sv> lucas
+[00:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <juank18sv> te saliste de la llamada
+[00:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was shot by Skeleton
+[00:13:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was blown up by Creeper
+[00:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 fell from a high place
+[00:13:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Human
+[00:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Human
+[00:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Enderman
+[00:15:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 moved wrongly!
+[00:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
+[00:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv fell from a high place
+[00:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii fell from a high place
+[00:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Zombie
+[00:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
