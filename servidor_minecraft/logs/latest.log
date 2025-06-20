@@ -1,119 +1,129 @@
-[00:01:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was blown up by Creeper
-[00:04:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Zombie
-[00:04:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Monster Hunter]
-[00:06:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Diamonds!]
-[00:07:01] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[00:07:01] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0
-[00:07:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:07:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:33037] logged in with entity id 465359 at (246.5, 71.0, 201.5)
-[00:07:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
-[00:08:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii burned to death
-[00:08:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <El_Macii> chau diamantes
-[00:08:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <juank18sv> lucas
-[00:08:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <juank18sv> te saliste de la llamada
-[00:09:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was shot by Skeleton
-[00:13:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was blown up by Creeper
-[00:13:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 fell from a high place
-[00:13:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Human
-[00:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Human
-[00:14:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Enderman
-[00:15:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 moved wrongly!
-[00:15:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:16:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv fell from a high place
-[00:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii fell from a high place
-[00:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Zombie
-[00:16:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:20:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Monster Hunter]
-[00:20:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 tried to swim in lava
-[00:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Assimilated Human
-[00:21:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 lost connection: Disconnected
-[00:21:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 left the game
-[00:22:08] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[00:22:08] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0
-[00:22:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:22:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:40119] logged in with entity id 743016 at (249.07318062580612, 59.0, 227.28779614825314)
-[00:22:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
-[00:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii tried to swim in lava to escape Skeleton
-[00:24:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was killed by Witch using magic
-[00:25:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Stone Age]
-[00:25:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Getting an Upgrade]
-[00:27:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was blown up by Creeper
-[00:28:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Assimilated Human
-[00:29:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Human
-[00:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Human
-[00:30:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was blown up by Creeper
-[00:31:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Zombie
-[00:31:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Zombie
-[00:32:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <El_Macii> esáda
-[00:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <El_Macii> espada
-[00:32:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Acquire Hardware]
-[00:33:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was shot by Skeleton
-[00:33:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:34:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:34:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Rupter
-[00:34:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:34:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:34:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:34:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:34:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:34:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:34:26] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:34:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:34:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:35:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:35:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:35:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:35:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:36:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Walking Head
-[00:36:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by El_Macii
-[00:37:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:37:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:37:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:37:53] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:37:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:38:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:38:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:38:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:38:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Rupter
-[00:38:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:38:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:38:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:38:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Rupter
-[00:39:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:39:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Rupter
-[00:39:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:39:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:39:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Rupter
-[00:39:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by juank18sv
-[00:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by El_Macii
-[00:40:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Enderman
-[00:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:40:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:40:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 lost connection: Timed out
-[00:40:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 left the game
-[00:40:41] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:40:41] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0
-[00:40:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:40:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:55077] logged in with entity id 1076689 at (244.5, 71.0, 199.5)
-[00:40:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
-[00:40:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by juank18sv
-[00:40:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by El_Macii
-[00:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[00:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by juank18sv
-[00:41:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:42:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:42:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:42:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Assimilated Enderman
-[00:42:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by El_Macii
-[00:42:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[00:43:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Assimilated Enderman
-[00:43:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by juank18sv
-[00:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Pig
-[00:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Assimilated Enderman
-[00:44:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Assimilated Enderman
-[00:45:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by El_Macii
-[00:45:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Assimilated Enderman
-[00:45:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by El_Macii
+[00:57:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:57:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:57:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[00:57:12] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[00:57:12] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[00:57:12] [main/INFO] [FML]: Searching /workspaces/serverw1/servidor_minecraft/./mods for mods
+[00:57:12] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.6_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[00:57:12] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[00:57:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:57:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:57:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:57:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[00:57:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:14] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[00:57:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[00:57:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[00:57:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:57:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[00:57:15] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[00:57:15] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[00:57:15] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[00:57:15] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[00:57:17] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[00:57:19] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[00:57:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[00:57:19] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[00:57:19] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[00:57:19] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[00:57:19] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[00:57:19] [Server thread/INFO] [FML]: Searching /workspaces/serverw1/servidor_minecraft/./mods for mods
+[00:57:20] [Server thread/WARN] [FML]: Mod damageindicatorsmod is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[00:57:21] [Server thread/INFO] [FML]: Forge Mod Loader has identified 9 mods to load
+[00:57:21] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[00:57:21] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, damageindicatorsmod, jei, srparasites, xaerominimap] at CLIENT
+[00:57:21] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, damageindicatorsmod, jei, srparasites, xaerominimap] at SERVER
+[00:57:21] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[00:57:21] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[00:57:21] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[00:57:21] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[00:57:21] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[00:57:21] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[00:57:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[00:57:22] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[00:57:22] [Server thread/INFO] [FML]: Applying holder lookups
+[00:57:22] [Server thread/INFO] [FML]: Holder lookups applied
+[00:57:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[00:57:23] [Server thread/INFO] [FML]: Applying holder lookups
+[00:57:23] [Server thread/INFO] [FML]: Holder lookups applied
+[00:57:23] [Server thread/INFO] [FML]: Applying holder lookups
+[00:57:23] [Server thread/INFO] [FML]: Holder lookups applied
+[00:57:23] [Server thread/INFO] [FML]: Applying holder lookups
+[00:57:23] [Server thread/INFO] [FML]: Holder lookups applied
+[00:57:23] [Server thread/INFO] [FML]: Injecting itemstacks
+[00:57:23] [Server thread/INFO] [FML]: Itemstack injection complete
+[00:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[00:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[00:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[00:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[00:57:23] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[00:57:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:57:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[00:57:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:57:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:57:23] [Server thread/INFO] [FML]: Applying holder lookups
+[00:57:23] [Server thread/INFO] [FML]: Holder lookups applied
+[00:57:23] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[00:57:23] [Server thread/INFO] [FML]: Injecting itemstacks
+[00:57:23] [Server thread/INFO] [FML]: Itemstack injection complete
+[00:57:24] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[00:57:24] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[00:57:24] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 9 mods
+[00:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[00:57:24] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@606931d6)
+[00:57:24] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[00:57:25] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@606931d6)
+[00:57:25] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@606931d6)
+[00:57:25] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[00:57:26] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.world.SRPSaveData:get:77]: nanissss--------asdddddddddddddddddddddddddddddddddddddddd----
+[00:57:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
+[00:57:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 9%
+[00:57:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 10%
+[00:57:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 15%
+[00:57:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 19%
+[00:57:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 24%
+[00:57:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 29%
+[00:57:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 33%
+[00:57:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 38%
+[00:57:35] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 43%
+[00:57:36] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 50%
+[00:57:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 55%
+[00:57:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 62%
+[00:57:39] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 67%
+[00:57:40] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 73%
+[00:57:41] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 79%
+[00:57:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 86%
+[00:57:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 92%
+[00:57:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 98%
+[00:57:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (21.025s)! For help, type "help" or "?"
+[00:57:45] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:57:45] [Server thread/INFO] [FML]: Unloading dimension 1
+[00:58:13] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[00:58:13] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[00:58:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:58:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Macii[/127.12.76.244:46755] logged in with entity id 2732 at (-226.5, 67.0, 252.5)
+[00:58:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii joined the game
+[00:58:14] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Macii lost connection: Disconnected
+[00:58:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii left the game
+[00:58:19] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:58:19] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[00:58:20] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:58:20] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Macii[/127.12.76.244:47031] logged in with entity id 2734 at (-226.5, 67.0, 252.5)
+[00:58:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii joined the game
+[01:00:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Stone Age]
+[01:00:55] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:00:55] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:00:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:00:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:50895] logged in with entity id 27323 at (-223.5, 75.0, 257.5)
+[01:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
+[01:01:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Getting an Upgrade]
+[01:02:35] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:02:35] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:02:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:02:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:56341] logged in with entity id 47360 at (-220.5, 71.0, 253.5)
+[01:02:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
+[01:02:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <juank18sv> estan muertisimos
+[01:03:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Monster Hunter]
+[01:06:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 lost connection: Disconnected
+[01:06:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 left the game
