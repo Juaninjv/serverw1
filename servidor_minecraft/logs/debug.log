@@ -821,3 +821,43 @@
 [01:06:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 lost connection: Disconnected
 [01:06:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 left the game
 [01:06:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:07:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:08:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:09:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Invalid json: malformed JSON at line 1 column 1 path $
+[01:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Invalid json: malformed JSON at line 1 column 1 path $
+[01:09:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Invalid json: malformed JSON at line 1 column 1 path $
+[01:10:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Invalid json: malformed JSON at line 1 column 1 path $
+[01:10:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:11:08] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:11:08] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:11:08] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:11:09] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:11:09] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:11:09] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:10 mods->FMLHandshakeServerState$2:HELLO
+[01:11:09] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:11:09] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[01:11:09] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:11:09] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[01:11:10] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:11:10] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[01:11:10] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:11:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:11:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:43435] logged in with entity id 139634 at (-214.37641824383036, 72.0, 237.29957263930007)
+[01:11:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
+[01:11:10] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:11:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:12:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:12:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <El_Macii> que jugamos
+[01:12:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Monster Hunter]
+[01:13:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:14:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:14:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Stone Age]
+[01:14:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Spider
+[01:15:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:15:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Getting an Upgrade]
+[01:15:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:16:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:16:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was shot by Skeleton
