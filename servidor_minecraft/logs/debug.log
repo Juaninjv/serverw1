@@ -5811,3 +5811,82 @@
 [23:52:36] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:53:21] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:54:06] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:54:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Stone Age]
+[23:54:51] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:55:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Getting an Upgrade]
+[23:55:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Disconnected
+[23:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
+[23:55:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: El_Macii lost connection: Disconnected
+[23:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii left the game
+[23:55:49] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 38594ms behind, skipping 771 tick(s)
+[23:55:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: El_Macii moved too quickly! 0.9118585847666054,-7.0,7.308299082948821
+[23:56:00] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:56:00] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:56:00] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:56:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:56:01] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[23:56:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:56:01] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0
+[23:56:01] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[23:56:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:56:01] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[23:56:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:56:02] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[23:56:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:56:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:56:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:53591] logged in with entity id 294047 at (249.49190998047442, 58.0, 229.54505945038923)
+[23:56:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
+[23:56:02] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:56:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:56:38] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:56:38] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:56:38] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:56:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:56:39] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[23:56:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:8 mods->FMLHandshakeServerState$2:HELLO
+[23:56:39] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 8 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0
+[23:56:39] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[23:56:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:56:39] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[23:56:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:56:39] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[23:56:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:56:39] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:56:39] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Macii[/127.12.76.244:34609] logged in with entity id 302518 at (252.42963825010966, 53.0, 236.374403509972)
+[23:56:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii joined the game
+[23:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Stone Age]
+[23:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Getting an Upgrade]
+[23:56:40] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:56:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Acquire Hardware]
+[23:56:52] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:56:52] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:56:52] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:56:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:56:53] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[23:56:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:6 mods->FMLHandshakeServerState$2:HELLO
+[23:56:53] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 6 mods : minecraft@1.12.2,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,mcp@9.42
+[23:56:53] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [xaerominimap_core, xaerominimap] at CLIENT
+[23:56:53] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[23:56:53] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:56:53] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[23:56:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 lost connection: Disconnected
+[23:56:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 left the game
+[23:56:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:56:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Isn't It Iron Pick]
+[23:57:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:58:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:58:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Acquire Hardware]
+[23:58:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by El_Macii
+[23:59:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:59:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was blown up by Creeper
+[00:01:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Zombie
+[00:04:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Monster Hunter]
+[00:05:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:05:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
