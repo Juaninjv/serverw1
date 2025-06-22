@@ -111,3 +111,4 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [02:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Whiter_YT2> -297 26 111
 [02:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Acquire Hardware]
 [02:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Isn't It Iron Pick]
+[02:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Spider
