@@ -6031,3 +6031,21 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [02:21:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Spider
 [02:21:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:22:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:23:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Monster Hunter]
+[02:23:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:24:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:25:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:26:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv hit the ground too hard
+[02:26:34] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-34, 8] in dimension 0 (overworld) while populating chunk [-34, 7], causing cascading worldgen lag.
+[02:26:34] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[02:26:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:27:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:28:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 fell from a high place
+[02:28:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:29:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:29:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:30:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:31:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:32:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
