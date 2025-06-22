@@ -1,324 +1,113 @@
-[00:44:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:44:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:44:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[00:44:00] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[00:44:00] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[00:44:01] [main/INFO] [FML]: Searching /workspaces/serverw1/servidor_minecraft/./mods for mods
-[00:44:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.6_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[00:44:01] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[00:44:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:44:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:44:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:44:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[00:44:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:44:04] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[00:44:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:44:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[00:44:04] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[00:44:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:44:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[00:44:05] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
-[00:44:05] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
-[00:44:05] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
-[00:44:05] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[00:44:08] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
-[00:44:11] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
-[00:44:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[00:44:11] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[00:44:11] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[00:44:11] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[00:44:11] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[00:44:12] [Server thread/INFO] [FML]: Searching /workspaces/serverw1/servidor_minecraft/./mods for mods
-[00:44:13] [Server thread/WARN] [FML]: Mod damageindicatorsmod is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
-[00:44:14] [Server thread/INFO] [FML]: Forge Mod Loader has identified 9 mods to load
-[00:44:14] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[00:44:14] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, damageindicatorsmod, jei, srparasites, xaerominimap] at CLIENT
-[00:44:14] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, damageindicatorsmod, jei, srparasites, xaerominimap] at SERVER
-[00:44:15] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[00:44:15] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[00:44:15] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[00:44:15] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[00:44:15] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
-[00:44:16] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[00:44:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[00:44:17] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[00:44:17] [Server thread/INFO] [FML]: Applying holder lookups
-[00:44:17] [Server thread/INFO] [FML]: Holder lookups applied
-[00:44:18] [Server thread/INFO] [FML]: Applying holder lookups
-[00:44:18] [Server thread/INFO] [FML]: Holder lookups applied
-[00:44:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[00:44:18] [Server thread/INFO] [FML]: Applying holder lookups
-[00:44:18] [Server thread/INFO] [FML]: Holder lookups applied
-[00:44:18] [Server thread/INFO] [FML]: Applying holder lookups
-[00:44:18] [Server thread/INFO] [FML]: Holder lookups applied
-[00:44:18] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:44:18] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[00:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[00:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[00:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[00:44:19] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[00:44:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:44:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[00:44:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:44:19] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:44:19] [Server thread/INFO] [FML]: Applying holder lookups
-[00:44:19] [Server thread/INFO] [FML]: Holder lookups applied
-[00:44:19] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[00:44:19] [Server thread/INFO] [FML]: Injecting itemstacks
-[00:44:19] [Server thread/INFO] [FML]: Itemstack injection complete
-[00:44:19] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[00:44:19] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[00:44:19] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 9 mods
-[00:44:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[00:44:19] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[00:44:20] [Server thread/INFO] [FML]: Applying holder lookups
-[00:44:20] [Server thread/INFO] [FML]: Holder lookups applied
-[00:44:20] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1d2d01f5)
-[00:44:21] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[00:44:21] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1d2d01f5)
-[00:44:21] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1d2d01f5)
-[00:44:21] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[00:44:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
-[00:44:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
-[00:44:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (4.039s)! For help, type "help" or "?"
-[00:44:24] [Server thread/INFO] [FML]: Unloading dimension -1
-[00:44:24] [Server thread/INFO] [FML]: Unloading dimension 1
-[00:44:32] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:44:32] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[00:44:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:44:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: El_Macii[/127.12.76.244:48821] logged in with entity id 261 at (-273.69999998807907, 12.0, 270.69999998807907)
-[00:44:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii joined the game
-[00:44:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Suit Up]
-[00:45:07] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[00:45:07] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[00:45:08] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:45:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:34895] logged in with entity id 5991 at (-249.59721711697856, 75.0, 247.16550616883993)
-[00:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
-[00:46:00] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[00:46:00] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[00:46:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[00:46:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:35911] logged in with entity id 17364 at (-272.9427130522641, 14.0, 269.30000001192093)
-[00:46:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
-[00:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Diamonds!]
-[00:49:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <juank18sv> chupame el pingo
-[00:50:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Walking Head
-[00:50:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[00:51:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was shot by Skeleton
-[00:51:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was slain by Rupter
-[00:52:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Assimilated Enderman
-[00:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Assimilated Enderman
-[00:53:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Feral Enderman
-[00:54:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Feral Enderman
-[00:54:54] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[00:55:02] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[00:55:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Gnat
-[00:55:41] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[00:55:42] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[00:55:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Gnat
-[00:56:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Feral Enderman
-[00:59:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Monster Hunter]
-[01:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Stone Age]
-[01:01:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Getting an Upgrade]
-[01:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Corpus2020
-[01:14:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Diamonds!]
-[01:15:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Corpus2020
-[01:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Suit Up]
-[01:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was blown up by Creeper
-[01:18:42] [Server thread/ERROR] [srparasites]: Problem while converting entity
-java.lang.NullPointerException: null
-	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
-	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
-	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
-	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
-	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
-	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
-	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
-	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
-	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
-	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
-	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
-	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[01:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Gnat
-[01:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Feral Cow
-[01:21:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[01:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
-[01:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
-[01:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Feral Cow
-[01:22:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 lost connection: Disconnected
-[01:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 left the game
-[01:22:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Feral Sheep
-[01:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Feral Cow
-[01:25:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Timed out
-[01:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
-[01:26:00] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[01:26:00] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[01:26:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:26:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Whiter_YT2[/127.64.86.192:42299] logged in with entity id 560659 at (-225.5, 68.0, 252.5)
-[01:26:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 joined the game
-[01:26:10] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:26:10] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[01:26:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:26:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:49455] logged in with entity id 562632 at (-200.69999998807907, 16.0, 284.30000001192093)
-[01:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
-[01:26:12] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[01:26:12] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[01:26:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:26:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:54419] logged in with entity id 563213 at (-223.5, 74.0, 260.5)
-[01:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
-[01:26:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Timed out
-[01:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
-[01:27:04] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[01:27:04] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[01:27:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:27:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:37081] logged in with entity id 574214 at (-223.5, 74.0, 260.5)
-[01:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
-[01:27:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Timed out
-[01:27:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
-[01:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Whiter_YT2> a/difficulty pasefy
-[01:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[01:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Whiter_YT2> dwa
-[01:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[01:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[01:28:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Whiter_YT2 lost connection: Disconnected
-[01:28:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 left the game
-[01:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[01:29:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[01:29:14] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[01:29:14] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[01:29:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:29:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Whiter_YT2[/127.64.86.192:47577] logged in with entity id 601897 at (-230.60837215726207, 67.0, 250.33449565586554)
-[01:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 joined the game
-[01:29:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[01:29:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Peaceful
-[01:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Whiter_YT2> adw
-[01:29:42] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[01:29:42] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
-[01:29:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[01:29:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:36715] logged in with entity id 608950 at (-223.5, 74.0, 260.5)
-[01:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
-[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Corpus2020
-[01:34:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Stone Age]
-[01:36:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Getting an Upgrade]
-[01:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Set game difficulty to Hard]
-[01:44:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Acquire Hardware]
-[01:44:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Isn't It Iron Pick]
-[01:45:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii has made the advancement [Ice Bucket Challenge]
-[01:45:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 was shot by Skeleton
-[01:45:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Suit Up]
-[01:48:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Diamonds!]
-[01:53:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:53:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:53:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
-[01:53:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[02:02:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:02:35] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:02:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[02:02:35] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[02:02:35] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[02:02:35] [main/INFO] [FML]: Searching /workspaces/serverw1/servidor_minecraft/./mods for mods
+[02:02:35] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_25.2.6_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[02:02:35] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[02:02:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:02:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:02:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:02:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[02:02:35] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:02:38] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[02:02:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:02:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[02:02:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[02:02:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:02:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[02:02:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class net.minecraft.server.MinecraftServer net.minecraft.server.MinecraftServer
+[02:02:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class pl net.minecraft.server.management.PlayerList
+[02:02:39] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class aed net.minecraft.entity.player.EntityPlayer
+[02:02:39] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[02:02:42] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class oq net.minecraft.entity.player.EntityPlayerMP
+[02:02:43] [main/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class bfc net.minecraft.world.storage.SaveFormatOld
+[02:02:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[02:02:43] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[02:02:43] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[02:02:44] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[02:02:44] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[02:02:44] [Server thread/INFO] [FML]: Searching /workspaces/serverw1/servidor_minecraft/./mods for mods
+[02:02:44] [Server thread/WARN] [FML]: Mod damageindicatorsmod is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[02:02:45] [Server thread/INFO] [FML]: Forge Mod Loader has identified 9 mods to load
+[02:02:45] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[02:02:46] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, damageindicatorsmod, jei, srparasites, xaerominimap] at CLIENT
+[02:02:46] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, xaerominimap_core, damageindicatorsmod, jei, srparasites, xaerominimap] at SERVER
+[02:02:46] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[02:02:47] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[02:02:47] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[02:02:47] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[02:02:47] [Server thread/INFO] [STDOUT]: [xaero.common.core.transformer.ClassNodeTransformer:transform:29]: Transforming class axw net.minecraft.world.chunk.Chunk
+[02:02:47] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[02:02:47] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[02:02:48] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[02:02:48] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[02:02:48] [Server thread/INFO] [FML]: Applying holder lookups
+[02:02:48] [Server thread/INFO] [FML]: Holder lookups applied
+[02:02:49] [Server thread/INFO] [FML]: Applying holder lookups
+[02:02:49] [Server thread/INFO] [FML]: Holder lookups applied
+[02:02:49] [Server thread/INFO] [FML]: Applying holder lookups
+[02:02:49] [Server thread/INFO] [FML]: Holder lookups applied
+[02:02:49] [Server thread/INFO] [FML]: Applying holder lookups
+[02:02:49] [Server thread/INFO] [FML]: Holder lookups applied
+[02:02:49] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:02:49] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[02:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[02:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[02:02:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[02:02:49] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[02:02:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:02:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[02:02:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:02:49] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:02:50] [Server thread/INFO] [FML]: Applying holder lookups
+[02:02:50] [Server thread/INFO] [FML]: Holder lookups applied
+[02:02:50] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02:02:50] [Server thread/INFO] [FML]: Injecting itemstacks
+[02:02:50] [Server thread/INFO] [FML]: Itemstack injection complete
+[02:02:50] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[02:02:50] [Server thread/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02:02:50] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 9 mods
+[02:02:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[02:02:50] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[02:02:50] [Server thread/INFO] [FML]: Applying holder lookups
+[02:02:51] [Server thread/INFO] [FML]: Holder lookups applied
+[02:02:51] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7fc5c6a4)
+[02:02:51] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[02:02:51] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[02:02:51] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7fc5c6a4)
+[02:02:51] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7fc5c6a4)
+[02:02:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[02:02:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 5%
+[02:02:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 71%
+[02:02:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.752s)! For help, type "help" or "?"
+[02:02:54] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:02:54] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:02:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[02:02:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[02:02:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:02:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:42289] logged in with entity id 405 at (-229.52354016755265, 44.0, 275.9479072594001)
+[02:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
+[02:02:58] [Netty Epoll Server IO #2/ERROR] [FML]: NetworkDispatcher exception
+io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken pipe
+	at io.netty.channel.unix.FileDescriptor.writeAddress(..)(Unknown Source) ~[FileDescriptor.class:?]
+[02:02:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Disconnected
+[02:02:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
+[02:02:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[02:02:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[02:03:00] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:03:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Whiter_YT2[/127.64.86.192:50043] logged in with entity id 418 at (-295.4531282152129, 11.0, 141.30000001192093)
+[02:03:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 joined the game
+[02:03:02] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:03:02] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[02:03:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:03:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:55901] logged in with entity id 626 at (-229.52354016755265, 44.0, 275.9479072594001)
+[02:03:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
+[02:04:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <juank18sv> -232 44 279
+[02:06:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[02:06:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[02:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Whiter_YT2> -297 26 111
+[02:10:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Acquire Hardware]
+[02:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Isn't It Iron Pick]
