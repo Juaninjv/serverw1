@@ -1,0 +1,97 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  XaeroMinimapPlugin (Xaeros_Minimap_25.2.6_Forge_1.12.jar)
+Contact their authors BEFORE contacting forge
+
+// Surprise! Haha. Well, this is awkward.
+
+Time: 6/20/25 1:45 AM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1483)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:262)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:207)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.HashMap$HashIterator.remove(HashMap.java:1483)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73156_b(ChunkProviderServer.java:262)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:207)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 286 Drop: 37
+	Level seed: 265975039631211126
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (-224,64,256), Chunk: (at 0,4,0 in -14,16; contains blocks -224,0,256 to -209,255,271), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 53219 game time, 53219 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 1593 (now: true), thunder time: 117558 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.8.0-1027-azure
+	Java Version: 1.8.0_452, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 2445560344 bytes (2332 MB) / 2809659392 bytes (2679 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx4G
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 9 mods loaded, 9 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                  | Version      | Source                                | Signature                                |
+	|:------ |:------------------- |:------------ |:------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft           | 1.12.2       | minecraft.jar                         | None                                     |
+	| LCHIJA | mcp                 | 9.42         | minecraft.jar                         | None                                     |
+	| LCHIJA | FML                 | 8.0.99.99    | forge-1.12.2-14.23.5.2860.jar         | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge               | 14.23.5.2860 | forge-1.12.2-14.23.5.2860.jar         | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | xaerominimap_core   | 1.12.2-1.0   | minecraft.jar                         | None                                     |
+	| LCHIJA | damageindicatorsmod | 1.0          | [1.12.2]DamageIndicatorsMod-3.5.1.jar | None                                     |
+	| LCHIJA | jei                 | 4.16.1.1013  | jei_1.12.2-4.16.1.1013.jar            | None                                     |
+	| LCHIJA | srparasites         | 1.9.21       | SRParasites-1.12.2v1.9.21.jar         | None                                     |
+	| LCHIJA | xaerominimap        | 25.2.6       | Xaeros_Minimap_25.2.6_Forge_1.12.jar  | None                                     |
+
+	Loaded coremods (and transformers): 
+XaeroMinimapPlugin (Xaeros_Minimap_25.2.6_Forge_1.12.jar)
+  xaero.common.core.transformer.ChunkTransformer
+  xaero.common.core.transformer.NetHandlerPlayClientTransformer
+  xaero.common.core.transformer.EntityPlayerTransformer
+  xaero.common.core.transformer.AbstractClientPlayerTransformer
+  xaero.common.core.transformer.WorldClientTransformer
+  xaero.common.core.transformer.EntityPlayerMPTransformer
+  xaero.common.core.transformer.EntityPlayerSPTransformer
+  xaero.common.core.transformer.PlayerListTransformer
+  xaero.common.core.transformer.SaveFormatTransformer
+  xaero.common.core.transformer.GuiIngameForgeTransformer
+  xaero.common.core.transformer.KeyBindingTransformer
+  xaero.common.core.transformer.MinecraftServerTransformer
+  xaero.common.core.transformer.GuiBossOverlayTransformer
+  xaero.common.core.transformer.ModelRendererTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 0 / 5; []
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
