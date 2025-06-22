@@ -92,7 +92,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "jungle_hills": "2025-06-20 01:03:05 +0000",
-      "jungle": "2025-06-20 01:02:36 +0000"
+      "jungle": "2025-06-20 01:02:36 +0000",
+      "river": "2025-06-22 01:18:23 +0000"
     },
     "done": false
   },
@@ -177,6 +178,12 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-06-20 01:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-06-22 01:33:06 +0000"
     },
     "done": true
   },

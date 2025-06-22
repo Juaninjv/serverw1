@@ -213,3 +213,102 @@ java.lang.NullPointerException: null
 [01:00:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Stone Age]
 [01:01:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv has made the advancement [Getting an Upgrade]
 [01:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Corpus2020
+[01:14:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Diamonds!]
+[01:15:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Corpus2020
+[01:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 has made the advancement [Suit Up]
+[01:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:15:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:18:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was blown up by Creeper
+[01:18:42] [Server thread/ERROR] [srparasites]: Problem while converting entity
+java.lang.NullPointerException: null
+	at com.dhanantry.scapeandrunparasites.util.ParasiteEventEntity.hijackEntity(ParasiteEventEntity.java:1221) [ParasiteEventEntity.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_82167_n(EntityAta.java:146) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_85033_bc(EntityLivingBase.java:2466) [vp.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2396) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70636_d(EntityMob.java:45) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.ai.misc.EntityParasiteBase.func_70636_d(EntityParasiteBase.java:361) [EntityParasiteBase.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70636_d(EntityAta.java:99) [EntityAta.class:?]
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179) [vp.class:?]
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295) [vq.class:?]
+	at net.minecraft.entity.monster.EntityMob.func_70071_h_(EntityMob.java:50) [ade.class:?]
+	at com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityAta.func_70071_h_(EntityAta.java:202) [EntityAta.class:?]
+	at net.minecraft.world.World.func_72866_a(World.java:1996) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832) [oo.class:?]
+	at net.minecraft.world.World.func_72870_g(World.java:1958) [amu.class:?]
+	at net.minecraft.world.World.func_72939_s(World.java:1762) [amu.class:?]
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[01:18:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Gnat
+[01:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Title command successfully executed]
+[01:21:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Feral Cow
+[01:21:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
+[01:21:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Rupter
+[01:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Rupter
+[01:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Feral Cow
+[01:22:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Corpus2020 lost connection: Disconnected
+[01:22:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 left the game
+[01:22:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Feral Sheep
+[01:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv was slain by Feral Cow
+[01:25:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Timed out
+[01:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
+[01:26:00] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:26:00] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:26:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:26:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Whiter_YT2[/127.64.86.192:42299] logged in with entity id 560659 at (-225.5, 68.0, 252.5)
+[01:26:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 joined the game
+[01:26:10] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:26:10] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:26:11] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:26:11] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Corpus2020[/127.188.118.249:49455] logged in with entity id 562632 at (-200.69999998807907, 16.0, 284.30000001192093)
+[01:26:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Corpus2020 joined the game
+[01:26:12] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:26:12] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:26:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:26:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:54419] logged in with entity id 563213 at (-223.5, 74.0, 260.5)
+[01:26:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
+[01:26:28] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Timed out
+[01:26:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
+[01:27:04] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:27:04] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:27:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:27:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:37081] logged in with entity id 574214 at (-223.5, 74.0, 260.5)
+[01:27:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
+[01:27:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Timed out
+[01:27:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
+[01:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Whiter_YT2> a/difficulty pasefy
+[01:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:27:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Whiter_YT2> dwa
+[01:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:28:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Whiter_YT2 lost connection: Disconnected
+[01:28:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 left the game
+[01:28:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:29:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:29:14] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:29:14] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:29:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:29:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Whiter_YT2[/127.64.86.192:47577] logged in with entity id 601897 at (-230.60837215726207, 67.0, 250.33449565586554)
+[01:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 joined the game
+[01:29:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[01:29:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Peaceful
+[01:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Whiter_YT2> adw
+[01:29:42] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:29:42] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[01:29:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:29:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: juank18sv[/127.97.135.146:36715] logged in with entity id 608950 at (-223.5, 74.0, 260.5)
+[01:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv joined the game
+[01:33:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: El_Macii was slain by Corpus2020
+[01:34:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Stone Age]
+[01:36:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 has made the advancement [Getting an Upgrade]
+[01:42:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [juank18sv: Set game difficulty to Hard]
