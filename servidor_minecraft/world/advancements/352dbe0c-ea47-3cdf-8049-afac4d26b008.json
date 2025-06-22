@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-06-22 01:45:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2025-06-20 01:00:23 +0000"
@@ -396,6 +402,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-22 01:45:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-06-20 01:05:01 +0000"
@@ -576,6 +588,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-06-20 01:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-22 01:45:15 +0000"
     },
     "done": true
   },
