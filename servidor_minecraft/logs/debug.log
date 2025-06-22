@@ -6049,3 +6049,54 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [02:30:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:31:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [02:32:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:32:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:33:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:34:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:35:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:35:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:36:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:37:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:38:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:38:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:39:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:40:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:37] [Server thread/DEBUG] [FML]: Minecraft loaded a new chunk [-32, -9] in dimension 0 (overworld) while populating chunk [-33, -9], causing cascading worldgen lag.
+[02:41:37] [Server thread/DEBUG] [FML]: Consider setting 'fixVanillaCascading' to 'true' in the Forge config to fix many cases where this occurs in the base game.
+[02:41:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 drowned
+[02:44:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:12] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Whiter_YT2 lost connection: Disconnected
+[02:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 left the game
+[02:44:25] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: juank18sv lost connection: Disconnected
+[02:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: juank18sv left the game
+[02:44:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:46:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:43] [Server thread/TRACE] [FML]: Handshake channel activating
+[02:48:43] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[02:48:43] [Server thread/DEBUG] [FML]:   Next: HELLO
+[02:48:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[02:48:44] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[02:48:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:10 mods->FMLHandshakeServerState$2:HELLO
+[02:48:44] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 10 mods : minecraft@1.12.2,damageindicatorsmod@1.0,tlauncher_custom_cape_skin@1.4,FML@8.0.99.99,forge@14.23.5.2860,srparasites@1.9.21,xaerominimap@25.2.6,mcp@9.42,xaerominimap_core@1.12.2-1.0,jei@4.16.1.1013
+[02:48:44] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[02:48:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[02:48:44] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[02:48:45] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[02:48:45] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[02:48:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[02:48:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Whiter_YT2[/127.64.86.192:48381] logged in with entity id 527760 at (-197.39704897337452, 65.0, 248.94543365138333)
+[02:48:45] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[02:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 joined the game
+[02:48:45] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[02:49:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:51:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:52:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
