@@ -125,3 +125,5 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [02:48:45] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [02:48:45] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Whiter_YT2[/127.64.86.192:48381] logged in with entity id 527760 at (-197.39704897337452, 65.0, 248.94543365138333)
 [02:48:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 joined the game
+[03:11:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Whiter_YT2 lost connection: Disconnected
+[03:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Whiter_YT2 left the game
