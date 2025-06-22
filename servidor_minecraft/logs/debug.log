@@ -6265,3 +6265,16 @@ io.netty.channel.unix.Errors$NativeIoException: syscall:write(..) failed: Broken
 [04:51:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:52:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [04:53:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:53:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:56:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:59:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:59:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:01:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:02:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
